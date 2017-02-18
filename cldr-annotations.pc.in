@@ -1,0 +1,5 @@
+prefix=@prefix@
+
+Name: cldr-annotations
+Description: annotation files in CLDR
+Version: @VERSION@

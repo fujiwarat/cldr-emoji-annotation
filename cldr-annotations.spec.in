@@ -1,0 +1,45 @@
+%global debug_package %{nil}
+
+Name:       cldr-annotations
+Version:    @VERSION@
+Release:    1%{?dist}
+Summary:    Emoji annotation files in CLDR
+License:    LGPLv2+
+Group:      System Environment/Libraries
+URL:        https://github.com/fujiwarat/cldr-annotations/wiki
+Source0:    https://github.com/fujiwarat/cldr-annotations/releases/download/%{version}/%{name}-%{version}.tar.gz
+
+%description
+This package provides the emoji annotation file by language in CLDR.
+
+%package devel
+Summary:    Files for development using cldr-annotations
+Group:      Development/Libraries
+Requires:   %{name} = %{version}-%{release}
+Requires:   pkgconfig
+
+%description devel
+This package contains the pkg-config files for development
+when building programs that use cldr-annotations.
+
+
+%prep
+%setup -q
+
+%build
+%configure
+make %{?_smp_mflags}
+
+%install
+make DESTDIR=$RPM_BUILD_ROOT install
+
+%files
+%doc AUTHORS README unicode-license.txt
+%{_datadir}/cldr/common/annotations
+
+%files devel
+%{_datadir}/pkgconfig/*.pc
+
+%changelog
+* @DATE_DISPLAY@ Takao Fujiwara <takao.fujiwara1@gmail.com> - @VERSION@-1
+- Current version.
