@@ -26,8 +26,13 @@ dist-hook:
 "$(MAJOR_VERSION).$(MINOR_VERSION).$$PREV_MICRO_VERSION"; \
 		echo "Changes in cldr-annotations $(VERSION)" > $(distdir)/NEWS; \
 		echo "" >> $(distdir)/NEWS; \
-		git log $$PREV_VERSION...$(VERSION) --reverse \
-		        --pretty=format:'%s (%an) %h' >> $(distdir)/NEWS; \
+		if test "x$$PREV_VERSION" = x30.0.2 ; then \
+		    git log --reverse \
+		            --pretty=format:'%s (%an) %h' >> $(distdir)/NEWS; \
+		else \
+		    git log $$PREV_VERSION...$(VERSION) --reverse \
+		            --pretty=format:'%s (%an) %h' >> $(distdir)/NEWS; \
+		fi; \
 	fi
 
 distclean-local:
