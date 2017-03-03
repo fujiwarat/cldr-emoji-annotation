@@ -3,22 +3,26 @@
 # Copyright (c) 2017 Takao Fujiwara <takao.fujiwara1@gmail.com>
 # Copyright (c) 2017 Red Hat, Inc.
 
+m4_define([con_version], [$1_$2])
 m4_define([major_version], [30])
 m4_define([minor_version], [0])
 m4_define([micro_version], [3])
+m4_define([local_version], [2])
 
 AC_PREFEQ([2.62])
-AC_INIT([cldr-annotations], major_version.minor_version.micro_version,
-        [https://github.com/fujiwarat/cldr-annotations/issues],
-        [cldr-annotations])
+AC_INIT([cldr-emoji-annotation], major_version.minor_version.con_version(micro_version, local_version),
+        [https://github.com/fujiwarat/cldr-emoji-annotation/issues],
+        [cldr-emoji-annotation])
 
 # Define sustituted variables:
 MAJOR_VERSION=major_version
 MINOR_VERSION=minor_version
 MICRO_VERSION=micro_version
+LOCAL_VERSION=local_version
 AC_SUBST(MAJOR_VERSION)
 AC_SUBST(MINOR_VERSION)
 AC_SUBST(MICRO_VERSION)
+AC_SUBST(LOCAL_VERSION)
 
 # For dislpay date.
 m4_define(datedisplay,
@@ -50,15 +54,15 @@ LT_INIT
 # OUTPUT files
 AC_CONFIG_FILES([
 Makefile
-cldr-annotations.pc
-cldr-annotations.spec
+cldr-emoji-annotation.pc
+cldr-emoji-annotation.spec
 annotations/Makefile
 ])
 
 AC_OUTPUT
 AC_MSG_RESULT([
 Build options:
-  Version                       $IBUS_VERSION
+  Version                       $VERSION
   Install prefix                $prefix
   Build shared libs             $enable_shared
   Build static libs             $enable_static

@@ -5,7 +5,7 @@
 
 NULL =
 
-xmldir = $(datadir)/cldr/common/annotations
+xmldir = $(datadir)/unicode/cldr/common/annotations
 xml_DATA = \
     af.xml \
     am.xml \

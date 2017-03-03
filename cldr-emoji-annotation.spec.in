@@ -1,13 +1,14 @@
 %global debug_package %{nil}
 
-Name:       cldr-annotations
+Name:       cldr-emoji-annotation
 Version:    @VERSION@
 Release:    1%{?dist}
 Summary:    Emoji annotation files in CLDR
-License:    LGPLv2+
+License:    LGPLv2+ and Unicode
 Group:      System Environment/Libraries
-URL:        https://github.com/fujiwarat/cldr-annotations/wiki
-Source0:    https://github.com/fujiwarat/cldr-annotations/releases/download/%{version}/%{name}-%{version}.tar.gz
+URL:        https://github.com/fujiwarat/cldr-emoji-annotation
+Source0:    https://github.com/fujiwarat/cldr-emoji-annotation/releases/download/%{version}/%{name}-%{version}.tar.gz
+BuildArch:  noarch
 
 %description
 This package provides the emoji annotation file by language in CLDR.
@@ -35,7 +36,7 @@ make DESTDIR=$RPM_BUILD_ROOT install
 
 %files
 %doc AUTHORS README unicode-license.txt
-%{_datadir}/cldr/common/annotations
+%{_datadir}/unicode/
 
 %files devel
 %{_datadir}/pkgconfig/*.pc
