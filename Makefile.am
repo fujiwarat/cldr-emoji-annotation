@@ -24,6 +24,7 @@ dist-hook:
 		PREV_LOCAL_VERSION=`expr $(LOCAL_VERSION) - 1`; \
 		PREV_VERSION=\
 "$(MAJOR_VERSION).$(MINOR_VERSION).$(MICRO_VERSION)_$$PREV_LOCAL_VERSION"; \
+		PREV_VERSION="30.0.3_2"; \
 		echo "Changes in cldr-annotations $(VERSION)" > $(distdir)/NEWS; \
 		echo "" >> $(distdir)/NEWS; \
 		if test "x$$PREV_VERSION" = x30.0.3_1 ; then \
