@@ -7,6 +7,7 @@ NULL =
 
 SUBDIRS = \
     annotations \
+    annotationsDerived \
     $(NULL)
 
 pkgconfigdir = $(datadir)/pkgconfig
@@ -21,15 +22,29 @@ EXTRA_DIST = \
 dist-hook:
 	if test -d .git ; then \
 		git log --name-status --date=iso > $(distdir)/ChangeLog ; \
-		PREV_LOCAL_VERSION=`expr $(LOCAL_VERSION) - 1`; \
-		PREV_VERSION=\
+		if test $(LOCAL_VERSION) -gt 1 ; then \
+		    PREV_LOCAL_VERSION=`expr $(LOCAL_VERSION) - 1`; \
+		    PREV_VERSION=\
 "$(MAJOR_VERSION).$(MINOR_VERSION).$(MICRO_VERSION)_$$PREV_LOCAL_VERSION"; \
-		PREV_VERSION="30.0.3_2"; \
+		elif test $(MICRO_VERSION) -gt 0 ; then \
+		    PREV_MICRO_VERSION=`expr $(MICRO_VERSION) - 1`; \
+		    PREV_VERSION=\
+"$(MAJOR_VERSION).$(MINOR_VERSION).$${PREV_MICRO_VERSION}_$(LOCAL_VERSION)"; \
+		elif test $(MINOR_VERSION) -gt 0 ; then \
+		    PREV_MINOR_VERSION=`expr $(MINOR_VERSION) - 1`; \
+		    PREV_VERSION=\
+"$(MAJOR_VERSION).$${PREV_MINOR_VERSION}.$(MICRO_VERSION)_$(LOCAL_VERSION)"; \
+		elif test $(MAJOR_VERSION) -gt 0 ; then \
+		    PREV_MAJOR_VERSION=`expr $(MAJOR_VERSION) - 1`; \
+		    PREV_VERSION=\
+"$${PREV_MAJOR_VERSION}.$(MINOR_VERSION).$(MICRO_VERSION)_$(LOCAL_VERSION)"; \
+		else \
+		    echo "Wrong version $(VERSION)" 1>&2; \
+		    exit 1; \
+		fi; \
+		echo "Changes between $(VERSION) and $$PREV_VERSION" 1>&2; \
 		echo "Changes in cldr-annotations $(VERSION)" > $(distdir)/NEWS; \
 		echo "" >> $(distdir)/NEWS; \
-		if test "x$$PREV_VERSION" = x30.0.3_1 ; then \
-		    PREV_VERSION=30.0.3; \
-		fi; \
 		git log $$PREV_VERSION...$(VERSION) --reverse \
 		        --pretty=format:'%s (%an) %h' >> $(distdir)/NEWS; \
 	fi
