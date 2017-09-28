@@ -22,7 +22,9 @@ EXTRA_DIST = \
 dist-hook:
 	if test -d .git ; then \
 		git log --name-status --date=iso > $(distdir)/ChangeLog ; \
-		if test $(LOCAL_VERSION) -gt 1 ; then \
+		if test x"$$CUSTOM_PREV_VERSION" != x ; then \
+		    PREV_VERSION="$$CUSTOM_PREV_VERSION"; \
+		elif test $(LOCAL_VERSION) -gt 1 ; then \
 		    PREV_LOCAL_VERSION=`expr $(LOCAL_VERSION) - 1`; \
 		    PREV_VERSION=\
 "$(MAJOR_VERSION).$(MINOR_VERSION).$(MICRO_VERSION)_$$PREV_LOCAL_VERSION"; \
