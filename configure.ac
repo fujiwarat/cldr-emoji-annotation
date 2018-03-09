@@ -36,7 +36,6 @@ AC_CONFIG_MACRO_DIR([m4])
 # Init automake.
 AM_INIT_AUTOMAKE([1.11.1])
 AM_MAINTAINER_MODE([enable])
-AC_GNU_SOURCE
 
 # Support silent build rules. Disable
 # by either passing --disable-silent-rules to configure or passing V=1
@@ -46,10 +45,6 @@ AM_SILENT_RULES([yes])
 # Check for programs.
 AC_PROG_INSTALL
 AC_PROG_MAKE_SET
-
-# Define PACKAGE_VERSION_* variables.
-AM_DISABLE_STATIC
-LT_INIT
 
 # OUTPUT files
 AC_CONFIG_FILES([
