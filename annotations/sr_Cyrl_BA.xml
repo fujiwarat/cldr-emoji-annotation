@@ -4,12 +4,18 @@
 For terms of use, see http://www.unicode.org/copyright.html
 Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
-
-Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
-		<language type="br"/>
+		<language type="sr"/>
+		<script type="Cyrl"/>
+		<territory type="BA"/>
 	</identity>
+	<annotations>
+		<annotation cp="🥼" draft="contributed">бели мантил</annotation>
+		<annotation cp="🥽" draft="contributed">заштитне наочари</annotation>
+		<annotation cp="🥾" draft="contributed">ципела за планинарење</annotation>
+		<annotation cp="🥿" draft="contributed">равна ципела</annotation>
+	</annotations>
 </ldml>
