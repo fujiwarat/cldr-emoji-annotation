@@ -4,9 +4,9 @@
 # Copyright (c) 2017-2019 Red Hat, Inc.
 
 m4_define([con_version], [$1_$2])
-m4_define([major_version], [34])
+m4_define([major_version], [35])
 m4_define([minor_version], [12])
-m4_define([micro_version], [14891])
+m4_define([micro_version], [14971])
 m4_define([local_version], [0])
 
 AC_PREFEQ([2.62])
