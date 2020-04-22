@@ -7,7 +7,7 @@ m4_define([con_version], [$1_$2])
 m4_define([major_version], [36])
 m4_define([minor_version], [12])
 # micro_version is Emoij minor version + commit date
-m4_define([micro_version], [120191002])
+m4_define([micro_version], [120200305])
 m4_define([local_version], [0])
 
 AC_PREFEQ([2.62])
