@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">5. mota</annotation>
 		<annotation cp="🏿">6. mota | azalaren tonua</annotation>
 		<annotation cp="🏿" type="tts">6. mota</annotation>
+		<annotation cp="–">labur | marra | marra laburra</annotation>
+		<annotation cp="–" type="tts">marra laburra</annotation>
+		<annotation cp="—">luze | marra | marra luzea</annotation>
+		<annotation cp="—" type="tts">marra luzea</annotation>
+		<annotation cp="·">erdia | erdiko puntu | erdiko puntua | puntu</annotation>
+		<annotation cp="·" type="tts">erdiko puntua</annotation>
+		<annotation cp="«">azentu zirkunflexu | ezkerra | ezkerreko komatxo | ezkerreko komatxoak | komatxo | kortxete | xebroi</annotation>
+		<annotation cp="«" type="tts">ezkerreko komatxoak</annotation>
+		<annotation cp="»">azentu zirkunflexu | eskuina | eskuineko komatxo | eskuineko komatxoak | komatxo | kortxete | xebroi</annotation>
+		<annotation cp="»" type="tts">eskuineko komatxoak</annotation>
+		<annotation cp="§">paragrafo | sekzio | sekzioa | zati</annotation>
+		<annotation cp="§" type="tts">sekzioa</annotation>
+		<annotation cp="†">gurutze | gurutzea | obelisko</annotation>
+		<annotation cp="†" type="tts">gurutzea</annotation>
+		<annotation cp="‡">bikoitz | gurutze | gurutze bikoitza | obelisko</annotation>
+		<annotation cp="‡" type="tts">gurutze bikoitza</annotation>
+		<annotation cp="•">bullet | bulleta | puntu</annotation>
+		<annotation cp="•" type="tts">bulleta</annotation>
+		<annotation cp="°">froga | gradu | ordu</annotation>
+		<annotation cp="°" type="tts">gradu</annotation>
+		<annotation cp="℗">copyright | grabaketa | soinu | soinu-grabaketaren copyrighta</annotation>
+		<annotation cp="℗" type="tts">soinu-grabaketaren copyrighta</annotation>
+		<annotation cp="←">ezkerra | ezkerrera seinalatzen duen gezia | gezia</annotation>
+		<annotation cp="←" type="tts">ezkerrera seinalatzen duen gezia</annotation>
+		<annotation cp="→">eskuinera | eskuinera seinalatzen duen gezia | gezia</annotation>
+		<annotation cp="→" type="tts">eskuinera seinalatzen duen gezia</annotation>
+		<annotation cp="↑">gezia | gora | gora seinalatzen duen gezia</annotation>
+		<annotation cp="↑" type="tts">gora seinalatzen duen gezia</annotation>
+		<annotation cp="↓">behera | behera seinalatzen duen gezia | gezia</annotation>
+		<annotation cp="↓" type="tts">behera seinalatzen duen gezia</annotation>
+		<annotation cp="⇅">behera | gezia | gora | gora eta behera seinalatzen duten geziak</annotation>
+		<annotation cp="⇅" type="tts">gora eta behera seinalatzen duten geziak</annotation>
+		<annotation cp="⇆">eskuina | ezkerra | ezkerrera eta eskuinera gezia | ezkerrera eta eskuinera seinalatzen duen gezia</annotation>
+		<annotation cp="⇆" type="tts">ezkerrera eta eskuinera seinalatzen duen gezia</annotation>
+		<annotation cp="∆">gehikuntza | triangelua</annotation>
+		<annotation cp="∆" type="tts">gehikuntza</annotation>
+		<annotation cp="∇">nabla | triangelua</annotation>
+		<annotation cp="∇" type="tts">nabla</annotation>
+		<annotation cp="∈">elementua | ezarri | hau du | honen elementua | kidetza</annotation>
+		<annotation cp="∈" type="tts">honen elementua</annotation>
+		<annotation cp="÷">zatiketa | zatiketa-ikur | zatitu</annotation>
+		<annotation cp="÷" type="tts">zatiketa-ikur</annotation>
+		<annotation cp="×">aldiak | biderkatu | biderketa | biderketa-ikur</annotation>
+		<annotation cp="×" type="tts">biderketa-ikur</annotation>
+		<annotation cp="⁻">goi-indize | goi-indizeko minusa | minus</annotation>
+		<annotation cp="⁻" type="tts">goi-indizeko minusa</annotation>
+		<annotation cp="√">erro | errotzaile | karratu | oinarri</annotation>
+		<annotation cp="√" type="tts">erro karratu</annotation>
+		<annotation cp="∞">infinitu-ikurra | infinitua</annotation>
+		<annotation cp="∞" type="tts">infinitu-ikurra</annotation>
+		<annotation cp="∩">ebakidura | multzoa</annotation>
+		<annotation cp="∩" type="tts">ebakidura</annotation>
+		<annotation cp="∪">bilduma | lotura | multzoa</annotation>
+		<annotation cp="∪" type="tts">lotura</annotation>
+		<annotation cp="≡">bera | berbera | hirukoitza | honen berbera</annotation>
+		<annotation cp="≡" type="tts">honen berbera</annotation>
+		<annotation cp="⊂">azpimultzoa | honen azpimultzoa | multzoa</annotation>
+		<annotation cp="⊂" type="tts">honen azpimultzoa</annotation>
+		<annotation cp="▲">betea | gezia | gora seinalatzen duen triangelu betea | triangelu</annotation>
+		<annotation cp="▲" type="tts">gora seinalatzen duen triangelu betea</annotation>
+		<annotation cp="▼">behera | behera seinalatzen duen triangelu betea | betea | gezi | triangelu</annotation>
+		<annotation cp="▼" type="tts">behera seinalatzen duen triangelu betea</annotation>
+		<annotation cp="◊">diamante | erronbo</annotation>
+		<annotation cp="◊" type="tts">erronbo</annotation>
+		<annotation cp="○">eraztun | zirkulu | zirkulu huts | zirkulu hutsa</annotation>
+		<annotation cp="○" type="tts">zirkulu hutsa</annotation>
+		<annotation cp="●">zirkulu bete | zirkulu betea | zirkulua</annotation>
+		<annotation cp="●" type="tts">zirkulu betea</annotation>
+		<annotation cp="◯">eraztun | zirkulu | zirkulu huts handi | zirkulu huts handia</annotation>
+		<annotation cp="◯" type="tts">zirkulu huts handia</annotation>
 		<annotation cp="⚧">transgeneroa | transgeneroen ikurra</annotation>
 		<annotation cp="⚧" type="tts">transgeneroen ikurra</annotation>
 		<annotation cp="🤌">elkartuta | esku-keinua | galdera | hatz elkartuak | hatzak | sarkasmoa</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">ortzadarraren bandera</annotation>
 		<annotation cp="🏴‍☠">altxor | arpilatze | Jolly Roger | pirata | piraten bandera</annotation>
 		<annotation cp="🏴‍☠" type="tts">piraten bandera</annotation>
+		<annotation cp="£">diru | EGP | GBP | libera</annotation>
+		<annotation cp="£" type="tts">libera</annotation>
+		<annotation cp="¥">CNY | diru | JPY | yen | yena | yuan</annotation>
+		<annotation cp="¥" type="tts">yena</annotation>
+		<annotation cp="€">diru | EUR | euro | euroa</annotation>
+		<annotation cp="€" type="tts">euroa</annotation>
+		<annotation cp="₹">diru | errupia | errupia indiar | errupia indiarra</annotation>
+		<annotation cp="₹" type="tts">errupia indiarra</annotation>
+		<annotation cp="₽">diru | errublo | errubloa</annotation>
+		<annotation cp="₽" type="tts">errubloa</annotation>
+		<annotation cp="¹">bat | goi-indize | goi-indizeko bat</annotation>
+		<annotation cp="¹" type="tts">goi-indizeko bat</annotation>
+		<annotation cp="²">bi | goi-indize | goi-indizeko bi</annotation>
+		<annotation cp="²" type="tts">goi-indizeko bi</annotation>
+		<annotation cp="³">goi-indize | goi-indizeko hiru | hiru | kubiko</annotation>
+		<annotation cp="³" type="tts">goi-indizeko hiru</annotation>
+		<annotation cp="µ">mikro-ikur | mikro-ikurra | neurketa</annotation>
+		<annotation cp="µ" type="tts">mikro-ikurra</annotation>
 	</annotations>
 </ldml>

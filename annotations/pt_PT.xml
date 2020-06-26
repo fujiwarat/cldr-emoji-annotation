@@ -24,6 +24,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">tipo de pele 5</annotation>
 		<annotation cp="🏿">cor de pele | cor de pele escura | tez escura | tipo de pele 6</annotation>
 		<annotation cp="🏿" type="tts">tipo de pele 6</annotation>
+		<annotation cp="–">meia-risca | meio-traço | traço | traço de ligação | traço médio</annotation>
+		<annotation cp="–" type="tts">↑↑↑</annotation>
+		<annotation cp="—">↑↑↑</annotation>
+		<annotation cp="—" type="tts">↑↑↑</annotation>
+		<annotation cp="·">↑↑↑</annotation>
+		<annotation cp="·" type="tts">↑↑↑</annotation>
+		<annotation cp="«">↑↑↑</annotation>
+		<annotation cp="«" type="tts">↑↑↑</annotation>
+		<annotation cp="»">↑↑↑</annotation>
+		<annotation cp="»" type="tts">↑↑↑</annotation>
+		<annotation cp="§">parágrafo | parte | secção | símbolo de parágrafo</annotation>
+		<annotation cp="§" type="tts">secção</annotation>
+		<annotation cp="†">↑↑↑</annotation>
+		<annotation cp="†" type="tts">↑↑↑</annotation>
+		<annotation cp="‡">↑↑↑</annotation>
+		<annotation cp="‡" type="tts">↑↑↑</annotation>
+		<annotation cp="•">marca | marca de lista | ponto</annotation>
+		<annotation cp="•" type="tts">marca de lista</annotation>
+		<annotation cp="°">↑↑↑</annotation>
+		<annotation cp="°" type="tts">↑↑↑</annotation>
+		<annotation cp="℗">direitos de autor | fonograma | símbolo de direitos de autor de fonograma | som</annotation>
+		<annotation cp="℗" type="tts">símbolo de direitos de autor de fonograma</annotation>
+		<annotation cp="←">esquerda | para a esquerda | seta | seta a apontar para a esquerda</annotation>
+		<annotation cp="←" type="tts">seta a apontar para a esquerda</annotation>
+		<annotation cp="→">direita | para a direita | seta | seta a apontar para a direita</annotation>
+		<annotation cp="→" type="tts">seta a apontar para a direita</annotation>
+		<annotation cp="↑">cima | para cima | seta | seta a apontar para cima</annotation>
+		<annotation cp="↑" type="tts">seta a apontar para cima</annotation>
+		<annotation cp="↓">baixo | para baixo | seta | seta a apontar para baixo</annotation>
+		<annotation cp="↓" type="tts">seta a apontar para baixo</annotation>
+		<annotation cp="⇅">baixo | cima | para baixo | para cima | seta | setas a apontar para cima e para baixo</annotation>
+		<annotation cp="⇅" type="tts">setas a apontar para cima e para baixo</annotation>
+		<annotation cp="⇆">direita | esquerda | para a direita | para a esquerda | seta | setas a apontar para a esquerda e direita | setas a apontar para a esquerda e para a direita</annotation>
+		<annotation cp="⇆" type="tts">setas a apontar para a esquerda e para a direita</annotation>
+		<annotation cp="∆">↑↑↑</annotation>
+		<annotation cp="∆" type="tts">↑↑↑</annotation>
+		<annotation cp="∇">↑↑↑</annotation>
+		<annotation cp="∇" type="tts">↑↑↑</annotation>
+		<annotation cp="∈">conjunto | contém | elemento | elemento de | membro | pertence a</annotation>
+		<annotation cp="∈" type="tts">↑↑↑</annotation>
+		<annotation cp="÷">↑↑↑</annotation>
+		<annotation cp="÷" type="tts">símbolo de divisão</annotation>
+		<annotation cp="×">↑↑↑</annotation>
+		<annotation cp="×" type="tts">↑↑↑</annotation>
+		<annotation cp="⁻">↑↑↑</annotation>
+		<annotation cp="⁻" type="tts">↑↑↑</annotation>
+		<annotation cp="√">↑↑↑</annotation>
+		<annotation cp="√" type="tts">↑↑↑</annotation>
+		<annotation cp="∞">infinito | símbolo de infinito</annotation>
+		<annotation cp="∞" type="tts">símbolo de infinito</annotation>
+		<annotation cp="∩">conjunto | interseção | intersecção</annotation>
+		<annotation cp="∩" type="tts">↑↑↑</annotation>
+		<annotation cp="∪">coleção | conjunto | reunião | união</annotation>
+		<annotation cp="∪" type="tts">↑↑↑</annotation>
+		<annotation cp="≡">↑↑↑</annotation>
+		<annotation cp="≡" type="tts">↑↑↑</annotation>
+		<annotation cp="⊂">↑↑↑</annotation>
+		<annotation cp="⊂" type="tts">↑↑↑</annotation>
+		<annotation cp="▲">cima | para cima | preenchido | seta | triângulo | triângulo preenchido a apontar para cima</annotation>
+		<annotation cp="▲" type="tts">triângulo preenchido a apontar para cima</annotation>
+		<annotation cp="▼">baixo | para baixo | preenchido | seta | triângulo | triângulo preenchido a apontar para baixo</annotation>
+		<annotation cp="▼" type="tts">triângulo preenchido a apontar para baixo</annotation>
+		<annotation cp="◊">↑↑↑</annotation>
+		<annotation cp="◊" type="tts">↑↑↑</annotation>
+		<annotation cp="○">↑↑↑</annotation>
+		<annotation cp="○" type="tts">↑↑↑</annotation>
+		<annotation cp="●">↑↑↑</annotation>
+		<annotation cp="●" type="tts">↑↑↑</annotation>
+		<annotation cp="◯">↑↑↑</annotation>
+		<annotation cp="◯" type="tts">↑↑↑</annotation>
 		<annotation cp="⚧" draft="contributed">símbolo transgénero</annotation>
 		<annotation cp="⚧" type="tts" draft="contributed">símbolo transgénero</annotation>
 		<annotation cp="🤌">↑↑↑</annotation>
@@ -3008,5 +3078,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">bandeira arco-íris</annotation>
 		<annotation cp="🏴‍☠">bandeira pirata | perna-de-pau | pirata | tesouro</annotation>
 		<annotation cp="🏴‍☠" type="tts">bandeira pirata</annotation>
+		<annotation cp="£">↑↑↑</annotation>
+		<annotation cp="£" type="tts">↑↑↑</annotation>
+		<annotation cp="¥">↑↑↑</annotation>
+		<annotation cp="¥" type="tts">↑↑↑</annotation>
+		<annotation cp="€">↑↑↑</annotation>
+		<annotation cp="€" type="tts">↑↑↑</annotation>
+		<annotation cp="₹">↑↑↑</annotation>
+		<annotation cp="₹" type="tts">↑↑↑</annotation>
+		<annotation cp="₽">↑↑↑</annotation>
+		<annotation cp="₽" type="tts">↑↑↑</annotation>
+		<annotation cp="¹">expoente | número um | número um sobrescrito | sobrescrito | um</annotation>
+		<annotation cp="¹" type="tts">↑↑↑</annotation>
+		<annotation cp="²">dois | expoente | número dois | número dois sobrescrito | quadrado | sobrescrito</annotation>
+		<annotation cp="²" type="tts">↑↑↑</annotation>
+		<annotation cp="³">cubo | expoente | número três | número três sobrescrito | sobrescrito | três</annotation>
+		<annotation cp="³" type="tts">↑↑↑</annotation>
+		<annotation cp="µ">↑↑↑</annotation>
+		<annotation cp="µ" type="tts">↑↑↑</annotation>
 	</annotations>
 </ldml>

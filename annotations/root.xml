@@ -27,6 +27,76 @@ for derived annotations.
 		<annotation cp="🏾" type="tts">E10-443</annotation>
 		<annotation cp="🏿">E10-444</annotation>
 		<annotation cp="🏿" type="tts">E10-444</annotation>
+		<annotation cp="–">E13-113</annotation>
+		<annotation cp="–" type="tts">E13-113</annotation>
+		<annotation cp="—">E13-114</annotation>
+		<annotation cp="—" type="tts">E13-114</annotation>
+		<annotation cp="·">E13-138</annotation>
+		<annotation cp="·" type="tts">E13-138</annotation>
+		<annotation cp="«">E13-140</annotation>
+		<annotation cp="«" type="tts">E13-140</annotation>
+		<annotation cp="»">E13-139</annotation>
+		<annotation cp="»" type="tts">E13-139</annotation>
+		<annotation cp="§">E13-146</annotation>
+		<annotation cp="§" type="tts">E13-146</annotation>
+		<annotation cp="†">E13-147</annotation>
+		<annotation cp="†" type="tts">E13-147</annotation>
+		<annotation cp="‡">E13-148</annotation>
+		<annotation cp="‡" type="tts">E13-148</annotation>
+		<annotation cp="•">E13-145</annotation>
+		<annotation cp="•" type="tts">E13-145</annotation>
+		<annotation cp="°">E13-149</annotation>
+		<annotation cp="°" type="tts">E13-149</annotation>
+		<annotation cp="℗">E13-126</annotation>
+		<annotation cp="℗" type="tts">E13-126</annotation>
+		<annotation cp="←">E13-103</annotation>
+		<annotation cp="←" type="tts">E13-103</annotation>
+		<annotation cp="→">E13-100</annotation>
+		<annotation cp="→" type="tts">E13-100</annotation>
+		<annotation cp="↑">E13-102</annotation>
+		<annotation cp="↑" type="tts">E13-102</annotation>
+		<annotation cp="↓">E13-101</annotation>
+		<annotation cp="↓" type="tts">E13-101</annotation>
+		<annotation cp="⇅">E13-107</annotation>
+		<annotation cp="⇅" type="tts">E13-107</annotation>
+		<annotation cp="⇆">E13-106</annotation>
+		<annotation cp="⇆" type="tts">E13-106</annotation>
+		<annotation cp="∆">E13-131</annotation>
+		<annotation cp="∆" type="tts">E13-131</annotation>
+		<annotation cp="∇">E13-133</annotation>
+		<annotation cp="∇" type="tts">E13-133</annotation>
+		<annotation cp="∈">E13-142</annotation>
+		<annotation cp="∈" type="tts">E13-142</annotation>
+		<annotation cp="÷">E13-132</annotation>
+		<annotation cp="÷" type="tts">E13-132</annotation>
+		<annotation cp="×">E13-127</annotation>
+		<annotation cp="×" type="tts">E13-127</annotation>
+		<annotation cp="⁻">E13-134</annotation>
+		<annotation cp="⁻" type="tts">E13-134</annotation>
+		<annotation cp="√">E13-128</annotation>
+		<annotation cp="√" type="tts">E13-128</annotation>
+		<annotation cp="∞">E13-129</annotation>
+		<annotation cp="∞" type="tts">E13-129</annotation>
+		<annotation cp="∩">E13-141</annotation>
+		<annotation cp="∩" type="tts">E13-141</annotation>
+		<annotation cp="∪">E13-144</annotation>
+		<annotation cp="∪" type="tts">E13-144</annotation>
+		<annotation cp="≡">E13-130</annotation>
+		<annotation cp="≡" type="tts">E13-130</annotation>
+		<annotation cp="⊂">E13-143</annotation>
+		<annotation cp="⊂" type="tts">E13-143</annotation>
+		<annotation cp="▲">E13-119</annotation>
+		<annotation cp="▲" type="tts">E13-119</annotation>
+		<annotation cp="▼">E13-115</annotation>
+		<annotation cp="▼" type="tts">E13-115</annotation>
+		<annotation cp="◊">E13-122</annotation>
+		<annotation cp="◊" type="tts">E13-122</annotation>
+		<annotation cp="○">E13-118</annotation>
+		<annotation cp="○" type="tts">E13-118</annotation>
+		<annotation cp="●">E13-116</annotation>
+		<annotation cp="●" type="tts">E13-116</annotation>
+		<annotation cp="◯">E13-121</annotation>
+		<annotation cp="◯" type="tts">E13-121</annotation>
 		<annotation cp="⚧">E13-075</annotation>
 		<annotation cp="⚧" type="tts">E13-075</annotation>
 		<annotation cp="🤌">E13-004</annotation>
@@ -3012,5 +3082,23 @@ for derived annotations.
 		<annotation cp="🏳‍🌈" type="tts">E10-1156</annotation>
 		<annotation cp="🏴‍☠">E11-003</annotation>
 		<annotation cp="🏴‍☠" type="tts">E11-003</annotation>
+		<annotation cp="£">E13-109</annotation>
+		<annotation cp="£" type="tts">E13-109</annotation>
+		<annotation cp="¥">E13-110</annotation>
+		<annotation cp="¥" type="tts">E13-110</annotation>
+		<annotation cp="€">E13-108</annotation>
+		<annotation cp="€" type="tts">E13-108</annotation>
+		<annotation cp="₹">E13-111</annotation>
+		<annotation cp="₹" type="tts">E13-111</annotation>
+		<annotation cp="₽">E13-112</annotation>
+		<annotation cp="₽" type="tts">E13-112</annotation>
+		<annotation cp="¹">E13-135</annotation>
+		<annotation cp="¹" type="tts">E13-135</annotation>
+		<annotation cp="²">E13-136</annotation>
+		<annotation cp="²" type="tts">E13-136</annotation>
+		<annotation cp="³">E13-137</annotation>
+		<annotation cp="³" type="tts">E13-137</annotation>
+		<annotation cp="µ">E13-150</annotation>
+		<annotation cp="µ" type="tts">E13-150</annotation>
 	</annotations>
 </ldml>

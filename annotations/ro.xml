@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">ton semi‑închis al pielii</annotation>
 		<annotation cp="🏿">nuanță | piele | tipul 6 | ton închis al pielii</annotation>
 		<annotation cp="🏿" type="tts">ton închis al pielii</annotation>
+		<annotation cp="–">linie | linie de pauză | pauză</annotation>
+		<annotation cp="–" type="tts">linie de pauză</annotation>
+		<annotation cp="—">dialog | linie | linie de dialog</annotation>
+		<annotation cp="—" type="tts">linie de dialog</annotation>
+		<annotation cp="·">interpunct | mijloc | punct | punct de mijloc | punct la mijloc | punct median</annotation>
+		<annotation cp="·" type="tts">punct la mijloc</annotation>
+		<annotation cp="«">accente circumflexe | ascuțite | ghilimele ascuțite stânga | ghilimele unghiulare | paranteze | semnele citării | stânga</annotation>
+		<annotation cp="«" type="tts">ghilimele ascuțite stânga</annotation>
+		<annotation cp="»">accente circumflexe | ascuțite | dreapta | ghilimele ascuțite dreapta | ghilimele unghiulare | paranteze | semnele citării</annotation>
+		<annotation cp="»" type="tts">ghilimele ascuțite dreapta</annotation>
+		<annotation cp="§">paragraf | parte | secțiune | semnul secțiune</annotation>
+		<annotation cp="§" type="tts">secțiune</annotation>
+		<annotation cp="†">cruciuliță | obelisc | semn cruciuliță</annotation>
+		<annotation cp="†" type="tts">semn cruciuliță</annotation>
+		<annotation cp="‡">cruciuliță | dublă | obelisc | semn cruciuliță dublă</annotation>
+		<annotation cp="‡" type="tts">semn cruciuliță dublă</annotation>
+		<annotation cp="•">marcator | punct</annotation>
+		<annotation cp="•" type="tts">marcator</annotation>
+		<annotation cp="°">grad | oră</annotation>
+		<annotation cp="°" type="tts">grad</annotation>
+		<annotation cp="℗">audio | copyright | drepturi de autor | drepturi de autor pentru înregistrare audio | înregistrare</annotation>
+		<annotation cp="℗" type="tts">drepturi de autor pentru înregistrare audio</annotation>
+		<annotation cp="←">săgeată | săgeată spre stânga | stânga</annotation>
+		<annotation cp="←" type="tts">săgeată spre stânga</annotation>
+		<annotation cp="→">dreapta | săgeată | săgeată spre dreapta</annotation>
+		<annotation cp="→" type="tts">săgeată spre dreapta</annotation>
+		<annotation cp="↑">săgeată | săgeată în sus | sus</annotation>
+		<annotation cp="↑" type="tts">săgeată în sus</annotation>
+		<annotation cp="↓">jos | săgeată | săgeată în jos</annotation>
+		<annotation cp="↓" type="tts">săgeată în jos</annotation>
+		<annotation cp="⇅">jos | săgeată | săgeată în sus și săgeată în jos | sus</annotation>
+		<annotation cp="⇅" type="tts">săgeată în sus și săgeată în jos</annotation>
+		<annotation cp="⇆">dreapta | săgeată | săgeată la stânga pe săgeată la dreapta | săgeată spre stânga peste săgeata spre dreapta | stânga</annotation>
+		<annotation cp="⇆" type="tts">săgeată la stânga pe săgeată la dreapta</annotation>
+		<annotation cp="∆">creștere | increment | triunghi</annotation>
+		<annotation cp="∆" type="tts">creștere</annotation>
+		<annotation cp="∇">nabla | triunghi</annotation>
+		<annotation cp="∇" type="tts">nabla</annotation>
+		<annotation cp="∈">apartenență | aparține | conține | element | element al | mulțime</annotation>
+		<annotation cp="∈" type="tts">element al</annotation>
+		<annotation cp="÷">împărți | împărțire | semnul împărțirii</annotation>
+		<annotation cp="÷" type="tts">semnul împărțirii</annotation>
+		<annotation cp="×">înmulți | înmulțire | ori | semnul înmulțirii</annotation>
+		<annotation cp="×" type="tts">semnul înmulțirii</annotation>
+		<annotation cp="⁻">exponent | minus</annotation>
+		<annotation cp="⁻" type="tts">exponent minus</annotation>
+		<annotation cp="√">număr irațional | pătrat | rădăcină | rădăcină pătrată | radical</annotation>
+		<annotation cp="√" type="tts">rădăcină pătrată</annotation>
+		<annotation cp="∞">infinit | semnul infinit</annotation>
+		<annotation cp="∞" type="tts">semnul infinit</annotation>
+		<annotation cp="∩">intersecție | mulțime</annotation>
+		<annotation cp="∩" type="tts">intersecție</annotation>
+		<annotation cp="∪">colecție | mulțime | reuniune</annotation>
+		<annotation cp="∪" type="tts">reuniune</annotation>
+		<annotation cp="≡">congruent | exact | identic | identic cu | triplu</annotation>
+		<annotation cp="≡" type="tts">identic cu</annotation>
+		<annotation cp="⊂">mulțime | submulțime | submulțime a</annotation>
+		<annotation cp="⊂" type="tts">submulțime a</annotation>
+		<annotation cp="▲">plină | săgeată | sus | triunghi | triunghi cu vârful în sus | triunghi plin cu vârful în sus</annotation>
+		<annotation cp="▲" type="tts">triunghi plin cu vârful în sus</annotation>
+		<annotation cp="▼">jos | plin | săgeată | triunghi | triunghi plin cu vârful în jos</annotation>
+		<annotation cp="▼" type="tts">triunghi plin cu vârful în jos</annotation>
+		<annotation cp="◊">caro | romb</annotation>
+		<annotation cp="◊" type="tts">romb</annotation>
+		<annotation cp="○">cerc | cerc gol | inel</annotation>
+		<annotation cp="○" type="tts">cerc gol</annotation>
+		<annotation cp="●">cerc | cerc plin</annotation>
+		<annotation cp="●" type="tts">cerc plin</annotation>
+		<annotation cp="◯">cerc | cerc gol mare | inel</annotation>
+		<annotation cp="◯" type="tts">cerc gol mare</annotation>
 		<annotation cp="⚧" draft="contributed">transgender</annotation>
 		<annotation cp="⚧" type="tts" draft="contributed">transgender</annotation>
 		<annotation cp="🤌">degete | degete strânse | gest cu mâna | interogație | sarcastic</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">steag curcubeu</annotation>
 		<annotation cp="🏴‍☠">comoară | pirați | pradă | steag cu cap de mort | steagul piraților</annotation>
 		<annotation cp="🏴‍☠" type="tts">steagul piraților</annotation>
+		<annotation cp="£">EGP | GBP | liră | monedă</annotation>
+		<annotation cp="£" type="tts">liră</annotation>
+		<annotation cp="¥">CNY | JPY | monedă | yen | yuan</annotation>
+		<annotation cp="¥" type="tts">yen</annotation>
+		<annotation cp="€">EUR | euro | monedă</annotation>
+		<annotation cp="€" type="tts">euro</annotation>
+		<annotation cp="₹">monedă | rupie | rupie indiană</annotation>
+		<annotation cp="₹" type="tts">rupie indiană</annotation>
+		<annotation cp="₽">monedă | rublă</annotation>
+		<annotation cp="₽" type="tts">rublă</annotation>
+		<annotation cp="¹">exponent | unu</annotation>
+		<annotation cp="¹" type="tts">exponent unu</annotation>
+		<annotation cp="²">doi | exponent | la pătrat</annotation>
+		<annotation cp="²" type="tts">exponent doi</annotation>
+		<annotation cp="³">exponent | la cub | trei</annotation>
+		<annotation cp="³" type="tts">exponent trei</annotation>
+		<annotation cp="µ">măsură | semnul micro</annotation>
+		<annotation cp="µ" type="tts">semnul micro</annotation>
 	</annotations>
 </ldml>

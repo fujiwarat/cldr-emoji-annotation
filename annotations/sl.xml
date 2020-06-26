@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">srednje temen ten kože</annotation>
 		<annotation cp="🏿">temen ten kože | ten | vrsta 6</annotation>
 		<annotation cp="🏿" type="tts">temen ten kože</annotation>
+		<annotation cp="–">kratek | vezaj</annotation>
+		<annotation cp="–" type="tts">vezaj</annotation>
+		<annotation cp="—">dolg | pomišljaj</annotation>
+		<annotation cp="—" type="tts">pomišljaj</annotation>
+		<annotation cp="·">ločilo | pika | srednja</annotation>
+		<annotation cp="·" type="tts">srednja pika</annotation>
+		<annotation cp="«">kotni | levi | levi francoski narekovaj | narekovaji | navednica | škarnice | znak</annotation>
+		<annotation cp="«" type="tts">levi francoski narekovaj</annotation>
+		<annotation cp="»">desni | desni francoski narekovaj | kotni | narekovaji | navednica | škarnice | znak</annotation>
+		<annotation cp="»" type="tts">desni francoski narekovaj</annotation>
+		<annotation cp="§">člen | del | razdelek | znak za razdelek</annotation>
+		<annotation cp="§" type="tts">razdelek</annotation>
+		<annotation cp="†">bodalo | križec | znak za bodalo | znamenje</annotation>
+		<annotation cp="†" type="tts">znak za bodalo</annotation>
+		<annotation cp="‡">bodalo | dvojno | križec | znak za dvojno bodalo | znamenje</annotation>
+		<annotation cp="‡" type="tts">znak za dvojno bodalo</annotation>
+		<annotation cp="•">pika | vrstična oznaka</annotation>
+		<annotation cp="•" type="tts">vrstična oznaka</annotation>
+		<annotation cp="°">količina | stopinja | ura</annotation>
+		<annotation cp="°" type="tts">stopinja</annotation>
+		<annotation cp="℗">avtorske pravice | avtorske pravice za zvočni posnetek | posnetek | zvočni</annotation>
+		<annotation cp="℗" type="tts">avtorske pravice za zvočni posnetek</annotation>
+		<annotation cp="←">levo | puščica | puščica, obrnjena v levo</annotation>
+		<annotation cp="←" type="tts">puščica, obrnjena v levo</annotation>
+		<annotation cp="→">desno | puščica | puščica, obrnjena v desno</annotation>
+		<annotation cp="→" type="tts">puščica, obrnjena v desno</annotation>
+		<annotation cp="↑">navzgor | puščica | puščica, obrnjena navzgor</annotation>
+		<annotation cp="↑" type="tts">puščica, obrnjena navzgor</annotation>
+		<annotation cp="↓">navzdol | puščica | puščica, obrnjena navzdol</annotation>
+		<annotation cp="↓" type="tts">puščica, obrnjena navzdol</annotation>
+		<annotation cp="⇅">navzdol | navzgor | puščica | puščici, obrnjeni navzgor in navzdol | Puščici, obrnjeni navzgor in navzdol</annotation>
+		<annotation cp="⇅" type="tts">puščici, obrnjeni navzgor in navzdol</annotation>
+		<annotation cp="⇆">desno | levo | puščica | puščica v levo nad puščico v desno | puščica, obrnjena v levo, nad puščico, obrnjeno v desno</annotation>
+		<annotation cp="⇆" type="tts">puščica v levo nad puščico v desno</annotation>
+		<annotation cp="∆">razlika | trikotnik</annotation>
+		<annotation cp="∆" type="tts">razlika</annotation>
+		<annotation cp="∇">nabla | trikotnik</annotation>
+		<annotation cp="∇" type="tts">nabla</annotation>
+		<annotation cp="∈">članstvo | element | je element množice | množica | vsebuje</annotation>
+		<annotation cp="∈" type="tts">je element množice</annotation>
+		<annotation cp="÷">deli | deljenje | znak za deljenje</annotation>
+		<annotation cp="÷" type="tts">znak za deljenje</annotation>
+		<annotation cp="×">krat | množenje | množi | znak za množenje</annotation>
+		<annotation cp="×" type="tts">znak za množenje</annotation>
+		<annotation cp="⁻">minus | nadpis | nadpisani minus</annotation>
+		<annotation cp="⁻" type="tts">nadpisani minus</annotation>
+		<annotation cp="√">iracionalno število | koren | korenski | kvadratni</annotation>
+		<annotation cp="√" type="tts">kvadratni koren</annotation>
+		<annotation cp="∞">neskončno | znak za neskončno</annotation>
+		<annotation cp="∞" type="tts">znak za neskončno</annotation>
+		<annotation cp="∩">množica | presek</annotation>
+		<annotation cp="∩" type="tts">presek</annotation>
+		<annotation cp="∪">množica | unija | zbirka</annotation>
+		<annotation cp="∪" type="tts">unija</annotation>
+		<annotation cp="≡">enako | je enako | točno</annotation>
+		<annotation cp="≡" type="tts">je enako</annotation>
+		<annotation cp="⊂">je podmnožica množice | množica | podmnožica</annotation>
+		<annotation cp="⊂" type="tts">je podmnožica množice</annotation>
+		<annotation cp="▲">navzgor | poln | poln navzgor obrnjen trikotnik | puščica | trikotnik</annotation>
+		<annotation cp="▲" type="tts">poln navzgor obrnjen trikotnik</annotation>
+		<annotation cp="▼">navzdol | poln | poln navzdol obrnjen trikotnik | puščica | trikotnik</annotation>
+		<annotation cp="▼" type="tts">poln navzdol obrnjen trikotnik</annotation>
+		<annotation cp="◊">romb | rombast lik</annotation>
+		<annotation cp="◊" type="tts">romb</annotation>
+		<annotation cp="○">krog | obroč | votel krog</annotation>
+		<annotation cp="○" type="tts">votel krog</annotation>
+		<annotation cp="●">krog | poln krog</annotation>
+		<annotation cp="●" type="tts">poln krog</annotation>
+		<annotation cp="◯">krog | obroč | velik votel krog</annotation>
+		<annotation cp="◯" type="tts">velik votel krog</annotation>
 		<annotation cp="⚧">simbol za transseksualnost | transseksualnost</annotation>
 		<annotation cp="⚧" type="tts">simbol za transseksualnost</annotation>
 		<annotation cp="🤌">izpraševanje | kretnja z roko | prsti | prsti, stisnjeni skupaj | sarkastično | stisnjen</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">mavrična zastava</annotation>
 		<annotation cp="🏴‍☠">gusarska zastava | pirat | piratska zastava | plenjenje | zaklad</annotation>
 		<annotation cp="🏴‍☠" type="tts">piratska zastava</annotation>
+		<annotation cp="£">EGP | funt | GBP | valuta</annotation>
+		<annotation cp="£" type="tts">funt</annotation>
+		<annotation cp="¥">CNY | jen | JPY | juan | valuta</annotation>
+		<annotation cp="¥" type="tts">jen</annotation>
+		<annotation cp="€">EUR | evro | valuta</annotation>
+		<annotation cp="€" type="tts">evro</annotation>
+		<annotation cp="₹">indijska rupija | indijska rupoja | rupija | valuta</annotation>
+		<annotation cp="₹" type="tts">indijska rupija</annotation>
+		<annotation cp="₽">rubelj | valuta</annotation>
+		<annotation cp="₽" type="tts">rubelj</annotation>
+		<annotation cp="¹">enka | nadpis | nadpisana enka</annotation>
+		<annotation cp="¹" type="tts">nadpisana enka</annotation>
+		<annotation cp="²">dvojka | kvadrat | nadpis | nadpisana dvojka</annotation>
+		<annotation cp="²" type="tts">nadpisana dvojka</annotation>
+		<annotation cp="³">kub | nadpis | nadpisana trojka | trojka</annotation>
+		<annotation cp="³" type="tts">nadpisana trojka</annotation>
+		<annotation cp="µ">mera | znak za mikro</annotation>
+		<annotation cp="µ" type="tts">znak za mikro</annotation>
 	</annotations>
 </ldml>

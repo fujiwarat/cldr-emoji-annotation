@@ -21,6 +21,76 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏾" type="tts">وچولو ڪارو رنگ</annotation>
 		<annotation cp="🏿">رنگ | قسم 6 | ڪارو رنگ</annotation>
 		<annotation cp="🏿" type="tts">ڪارو رنگ</annotation>
+		<annotation cp="–">اي اين | اي اين ڊيش | ڊيش</annotation>
+		<annotation cp="–" type="tts">اي اين ڊيش</annotation>
+		<annotation cp="—">اي ايم | اي ايم ڊيش | ڊيش</annotation>
+		<annotation cp="—" type="tts">اي ايم ڊيش</annotation>
+		<annotation cp="·">انٽرپنڪٽ | ٽٻڪو | وچ | وچ وارو ٽٻڪو</annotation>
+		<annotation cp="·" type="tts">وچ وارو ٽٻڪو</annotation>
+		<annotation cp="«">اينگل | بريڪيٽ | چيورون | کاٻو | کاٻو گيولمينٽ | ڪوٽ | ڪيريٽس</annotation>
+		<annotation cp="«" type="tts">کاٻو گيولمينٽ</annotation>
+		<annotation cp="»">اينگل | بريڪيٽ | چيورون | ساڄو | ساڄو گيولمينٽ | ڪوٽ | ڪيريٽس</annotation>
+		<annotation cp="»" type="tts">ساڄو گيولمينٽ</annotation>
+		<annotation cp="§">پيراگراف | حصو | سلڪرو | سيڪشن</annotation>
+		<annotation cp="§" type="tts">سيڪشن</annotation>
+		<annotation cp="†">اوبيلسڪ | حاشي | ڊيگر | ڊيگر جي نشاني</annotation>
+		<annotation cp="†" type="tts">ڊيگر جي نشاني</annotation>
+		<annotation cp="‡">اوبيلسڪ | حاشي | ڊبل | ڊبل ڊيگر نشاني | ڊيگر</annotation>
+		<annotation cp="‡" type="tts">ڊبل ڊيگر نشاني</annotation>
+		<annotation cp="•">بليٽ | ٽٻڪو</annotation>
+		<annotation cp="•" type="tts">بليٽ</annotation>
+		<annotation cp="°">ثبوت | ڊگري | ڪلاڪ</annotation>
+		<annotation cp="°" type="tts">ڊگري</annotation>
+		<annotation cp="℗">آواز | آواز رڪارڊنگ ڪاپي رائيٽ | رڪارڊنگ | ڪاپي رائيٽ</annotation>
+		<annotation cp="℗" type="tts">آواز رڪارڊنگ ڪاپي رائيٽ</annotation>
+		<annotation cp="←">تير | کاٻو | کاٻو-اشارو ڏيندڙ تير</annotation>
+		<annotation cp="←" type="tts">کاٻو-اشارو ڏيندڙ تير</annotation>
+		<annotation cp="→">تير | ساڄو | ساڄو-اشارو ڪندڙ تڳر | ساڄو-اشارو ڪندڙ تير</annotation>
+		<annotation cp="→" type="tts">ساڄو-اشارو ڪندڙ تير</annotation>
+		<annotation cp="↑">تير | مٿي | مٿي-اشارو ڏيندڙ تير | مٿي-اشارو ڪندڙ تير</annotation>
+		<annotation cp="↑" type="tts">مٿي-اشارو ڪندڙ تير</annotation>
+		<annotation cp="↓">تير | هيٺ | هيٺ-اشارو ڪندڙ تير</annotation>
+		<annotation cp="↓" type="tts">هيٺ-اشارو ڪندڙ تير</annotation>
+		<annotation cp="⇅">تير / هيٺ / مٿي / مٿي اشارو ڏيندڙ تير ۽ هيٺ اشارو ڏيندڙ تير | مٿي-اشارو ڏيندڙ ۽ هيٺ-اشارو ڏيندڙ تير</annotation>
+		<annotation cp="⇅" type="tts">مٿي-اشارو ڏيندڙ ۽ هيٺ-اشارو ڏيندڙ تير</annotation>
+		<annotation cp="⇆">تير | ساڄو | ساڄو-اشارو ڏيندڙ تيرن تي کاٻو-اشارو ڏيندڙ تير | کاٻو</annotation>
+		<annotation cp="⇆" type="tts">ساڄو-اشارو ڏيندڙ تيرن تي کاٻو-اشارو ڏيندڙ تير</annotation>
+		<annotation cp="∆">انڪريمينٽ | ٽڪنڊو</annotation>
+		<annotation cp="∆" type="tts">انڪريمينٽ</annotation>
+		<annotation cp="∇">ٽڪنڊو | نبلا</annotation>
+		<annotation cp="∇" type="tts">نبلا</annotation>
+		<annotation cp="∈">جو عنصر | سيٽ | عنصر | ڪنٽينس | ميمبرشپ</annotation>
+		<annotation cp="∈" type="tts">جو عنصر</annotation>
+		<annotation cp="÷">حاشي | ضرب ڪريو | ونڍ | ونڍ جي نشاني</annotation>
+		<annotation cp="÷" type="tts">ونڍ جي نشاني</annotation>
+		<annotation cp="×">ڀيرا | ضرب | ضرب جي نشاني | ضرب ڪريو</annotation>
+		<annotation cp="×" type="tts">ضرب جي نشاني</annotation>
+		<annotation cp="⁻">سپر اسڪرپٽ | سپر اسڪرپٽ مائنس | مائنس</annotation>
+		<annotation cp="⁻" type="tts">سپر اسڪرپٽ مائنس</annotation>
+		<annotation cp="√">اسڪوائر | روٽ | ريڊڪس | ريڊيڪل | سرڊ</annotation>
+		<annotation cp="√" type="tts">اسڪوائر روٽ</annotation>
+		<annotation cp="∞">انفينٽي | انفينٽي سائن</annotation>
+		<annotation cp="∞" type="tts">انفينٽي سائن</annotation>
+		<annotation cp="∩">انٽر سيڪشن | سيٽ</annotation>
+		<annotation cp="∩" type="tts">انٽر سيڪشن</annotation>
+		<annotation cp="∪">سيٽ | ڪليڪشن | يونين</annotation>
+		<annotation cp="∪" type="tts">يونين</annotation>
+		<annotation cp="≡">ٽرپل | ڏانهن ساڳيا | ڏانهن هڪ جهڙا | ساڳيا | هڪ جهڙا</annotation>
+		<annotation cp="≡" type="tts">ڏانهن ساڳيا</annotation>
+		<annotation cp="⊂">جو سب سيٽ | جو سبسيٽ | سب سيٽ | سيٽ</annotation>
+		<annotation cp="⊂" type="tts">جو سبسيٽ</annotation>
+		<annotation cp="▲">ڀريل | ڀريل مٿي-اشارو ڏيندڙ ٽڪنڊو | تير | ٽڪنڊو | مٿي</annotation>
+		<annotation cp="▲" type="tts">ڀريل مٿي-اشارو ڏيندڙ ٽڪنڊو</annotation>
+		<annotation cp="▼">ڀريل | ڀريل هيٺ-اشارو ڏيندڙ ٽڪنڊو | تير | ٽڪنڊو | هيٺ</annotation>
+		<annotation cp="▼" type="tts">ڀريل هيٺ-اشارو ڏيندڙ ٽڪنڊو</annotation>
+		<annotation cp="◊">روهمبس | لوزينج | هيرو</annotation>
+		<annotation cp="◊" type="tts">لوزينج</annotation>
+		<annotation cp="○">خالي دائرو | دائرو | رنگ</annotation>
+		<annotation cp="○" type="tts">خالي دائرو</annotation>
+		<annotation cp="●">ڀريل دائرو | ڀريل گول | دائرو</annotation>
+		<annotation cp="●" type="tts">ڀريل گول</annotation>
+		<annotation cp="◯">دائرو | رنگ | وڏو خالي دائرو</annotation>
+		<annotation cp="◯" type="tts">وڏو خالي دائرو</annotation>
 		<annotation cp="⚧">وچ جنس | وچ جنس جي نشاني</annotation>
 		<annotation cp="⚧" type="tts">وچ جنس جي نشاني</annotation>
 		<annotation cp="🤌">آڱريون | انٽيروگيشن | پنچ ٿيل | پنچ ٿيل آڱريون | سارڪيسٽڪ | هٿ جو اشرو</annotation>
@@ -3005,5 +3075,23 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏳‍🌈" type="tts">انڊلٺي جھنڊو</annotation>
 		<annotation cp="🏴‍☠">پائريٽ | پائريٽ نشان | پلونڊر | جولي روجر | خزانو</annotation>
 		<annotation cp="🏴‍☠" type="tts">پائريٽ نشان</annotation>
+		<annotation cp="£">£ | پائونڊ</annotation>
+		<annotation cp="£" type="tts">پائونڊ</annotation>
+		<annotation cp="¥">¥ | يوئان | يين</annotation>
+		<annotation cp="¥" type="tts">يين</annotation>
+		<annotation cp="€">€ | يورو</annotation>
+		<annotation cp="€" type="tts">يورو</annotation>
+		<annotation cp="₹">انڊين رپيو | رپيو | ڪرنسي</annotation>
+		<annotation cp="₹" type="tts">انڊين رپيو</annotation>
+		<annotation cp="₽">ربل | ڪرنسي</annotation>
+		<annotation cp="₽" type="tts">ربل</annotation>
+		<annotation cp="¹">سپر اسڪرپٽ | سپر اسڪرپٽ ون | ون</annotation>
+		<annotation cp="¹" type="tts">سپر اسڪرپٽ ون</annotation>
+		<annotation cp="²">ٽو | چورس | سپر اسڪرپٽ | سپر اسڪرپٽ ٽو</annotation>
+		<annotation cp="²" type="tts">سپر اسڪرپٽ ٽو</annotation>
+		<annotation cp="³">ٽي | سپر اسڪرپٽ | سپر اسڪرپٽ ٿري | ڪيوبڊ</annotation>
+		<annotation cp="³" type="tts">سپر اسڪرپٽ ٿري</annotation>
+		<annotation cp="µ">مائيڪرو سائن | ماپ</annotation>
+		<annotation cp="µ" type="tts">مائيڪرو سائن</annotation>
 	</annotations>
 </ldml>

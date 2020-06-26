@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">katamtamang dark na kulay ng balat</annotation>
 		<annotation cp="🏿">dark na kulay ng balat | kulay ng balat | type 6</annotation>
 		<annotation cp="🏿" type="tts">dark na kulay ng balat</annotation>
+		<annotation cp="–">gatlang | maikling gatlang</annotation>
+		<annotation cp="–" type="tts">maikling gatlang</annotation>
+		<annotation cp="—">gatlang | mahabang gatlang</annotation>
+		<annotation cp="—" type="tts">mahabang gatlang</annotation>
+		<annotation cp="·">gitna | interpunct | nakagitnang tuldok | tuldok</annotation>
+		<annotation cp="·" type="tts">nakagitnang tuldok</annotation>
+		<annotation cp="«">anggulo | chevron | kaliwa | mga bracket | mga caret | pakaliwang guillemet | quote</annotation>
+		<annotation cp="«" type="tts">pakaliwang guillemet</annotation>
+		<annotation cp="»">anggulo | chevron | kanan | mga bracket | mga caret | pakanang guillemet | quote</annotation>
+		<annotation cp="»" type="tts">pakanang guillemet</annotation>
+		<annotation cp="§">bahagi | seksyon | silcrow | talata</annotation>
+		<annotation cp="§" type="tts">seksyon</annotation>
+		<annotation cp="†">dagger | dagger sign | obelisk | obelus</annotation>
+		<annotation cp="†" type="tts">dagger sign</annotation>
+		<annotation cp="‡">dagger | doble | dobleng dagger sign | obelisk | obelus</annotation>
+		<annotation cp="‡" type="tts">dobleng dagger sign</annotation>
+		<annotation cp="•">bullet | tuldok</annotation>
+		<annotation cp="•" type="tts">bullet</annotation>
+		<annotation cp="°">degree | oras | proof</annotation>
+		<annotation cp="°" type="tts">degree</annotation>
+		<annotation cp="℗">copyright | copyright ng recording ng tunog | recording | tunog</annotation>
+		<annotation cp="℗" type="tts">copyright ng recording ng tunog</annotation>
+		<annotation cp="←">arrow | arrow na nakaturo sa kaliwa | kaliwa</annotation>
+		<annotation cp="←" type="tts">arrow na nakaturo sa kaliwa</annotation>
+		<annotation cp="→">arrow | arrow na nakaturo sa kanan | kanan</annotation>
+		<annotation cp="→" type="tts">arrow na nakaturo sa kanan</annotation>
+		<annotation cp="↑">arrow | arrow na nakaturo pataas | pataas</annotation>
+		<annotation cp="↑" type="tts">arrow na nakaturo pataas</annotation>
+		<annotation cp="↓">arrow | arrow na nakaturo pababa | pababa</annotation>
+		<annotation cp="↓" type="tts">arrow na nakaturo pababa</annotation>
+		<annotation cp="⇅">arrow | pababa | pataas | pataas na arrow at pababang arrow</annotation>
+		<annotation cp="⇅" type="tts">pataas na arrow at pababang arrow</annotation>
+		<annotation cp="⇆">arrow | kaliwa | kanan | pakaliwa sa ibabaw ng pakanang arrow | pakaliwang arrow sa ibabaw ng pakanang arrow</annotation>
+		<annotation cp="⇆" type="tts">pakaliwa sa ibabaw ng pakanang arrow</annotation>
+		<annotation cp="∆">increment | tatsulok</annotation>
+		<annotation cp="∆" type="tts">increment</annotation>
+		<annotation cp="∇">nabla | tatsulok</annotation>
+		<annotation cp="∇" type="tts">nabla</annotation>
+		<annotation cp="∈">element | element ng | membership | naglalaman ng | set</annotation>
+		<annotation cp="∈" type="tts">element ng</annotation>
+		<annotation cp="÷">division | division sign | mag-divide | obelus</annotation>
+		<annotation cp="÷" type="tts">division sign</annotation>
+		<annotation cp="×">mag-multiply | multiplication | multiplication sign | times</annotation>
+		<annotation cp="×" type="tts">multiplication sign</annotation>
+		<annotation cp="⁻">minus | superscript</annotation>
+		<annotation cp="⁻" type="tts">superscript minus</annotation>
+		<annotation cp="√">radical | radix | root | square | surd</annotation>
+		<annotation cp="√" type="tts">square root</annotation>
+		<annotation cp="∞">infinity | infinity sign</annotation>
+		<annotation cp="∞" type="tts">infinity sign</annotation>
+		<annotation cp="∩">intersection | set</annotation>
+		<annotation cp="∩" type="tts">intersection</annotation>
+		<annotation cp="∪">koleksyon | set | union</annotation>
+		<annotation cp="∪" type="tts">union</annotation>
+		<annotation cp="≡">eksakto | katulad | katulad ng | triple</annotation>
+		<annotation cp="≡" type="tts">katulad ng</annotation>
+		<annotation cp="⊂">set | subset | subset ng</annotation>
+		<annotation cp="⊂" type="tts">subset ng</annotation>
+		<annotation cp="▲">arrow | may fill | pataas | pataas na tatsulok na may fill | tatsulok</annotation>
+		<annotation cp="▲" type="tts">pataas na tatsulok na may fill</annotation>
+		<annotation cp="▼">arrow | may fill | pababa | pababang tatsulok na may fill | tatsulok</annotation>
+		<annotation cp="▼" type="tts">pababang tatsulok na may fill</annotation>
+		<annotation cp="◊">diamante | lozenge | rhombus</annotation>
+		<annotation cp="◊" type="tts">lozenge</annotation>
+		<annotation cp="○">bilog | singsing | walang lamang bilog</annotation>
+		<annotation cp="○" type="tts">walang lamang bilog</annotation>
+		<annotation cp="●">bilog | may fill na bilog</annotation>
+		<annotation cp="●" type="tts">may fill na bilog</annotation>
+		<annotation cp="◯">bilog | malaking walang lamang bilog | singsing</annotation>
+		<annotation cp="◯" type="tts">malaking walang lamang bilog</annotation>
 		<annotation cp="⚧">simbolo ng transgender | transgender</annotation>
 		<annotation cp="⚧" type="tts">simbolo ng transgender</annotation>
 		<annotation cp="🤌">daliri | hand gesture | pakurot | pakurot na daliri</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">bahagharing bandila</annotation>
 		<annotation cp="🏴‍☠">bandila ng pirata | Jolly Roger | kayamanan | magnanakaw | pirata</annotation>
 		<annotation cp="🏴‍☠" type="tts">bandila ng pirata</annotation>
+		<annotation cp="£">EGP | GBP | pera | pound</annotation>
+		<annotation cp="£" type="tts">pound</annotation>
+		<annotation cp="¥">CNY | JPY | pera | yen | yuan</annotation>
+		<annotation cp="¥" type="tts">yen</annotation>
+		<annotation cp="€">EUR | euro | pera</annotation>
+		<annotation cp="€" type="tts">euro</annotation>
+		<annotation cp="₹">indian rupee | pera | rupee</annotation>
+		<annotation cp="₹" type="tts">indian rupee</annotation>
+		<annotation cp="₽">pera | ruble</annotation>
+		<annotation cp="₽" type="tts">ruble</annotation>
+		<annotation cp="¹">isa | superscript | superscript na isa</annotation>
+		<annotation cp="¹" type="tts">superscript na isa</annotation>
+		<annotation cp="²">dalawa | squared | superscript | superscript na dalawa</annotation>
+		<annotation cp="²" type="tts">superscript na dalawa</annotation>
+		<annotation cp="³">cubed | superscript | superscript na tatlo | tatlo</annotation>
+		<annotation cp="³" type="tts">superscript na tatlo</annotation>
+		<annotation cp="µ">micro sign | sukat</annotation>
+		<annotation cp="µ" type="tts">micro sign</annotation>
 	</annotations>
 </ldml>

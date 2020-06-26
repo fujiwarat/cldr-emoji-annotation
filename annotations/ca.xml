@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">pell fosca</annotation>
 		<annotation cp="🏿">fosca | pell | pell molt fosca</annotation>
 		<annotation cp="🏿" type="tts">pell molt fosca</annotation>
+		<annotation cp="–">guió | guió mitjà</annotation>
+		<annotation cp="–" type="tts">guió mitjà</annotation>
+		<annotation cp="—">guió | guió llarg</annotation>
+		<annotation cp="—" type="tts">guió llarg</annotation>
+		<annotation cp="·">meitat | punt | punt alçat | punt volat</annotation>
+		<annotation cp="·" type="tts">punt volat</annotation>
+		<annotation cp="«">angle | cometa | cometa llatina esquerra | esquerra | galó | parèntesi | signe d’inserció</annotation>
+		<annotation cp="«" type="tts">cometa llatina esquerra</annotation>
+		<annotation cp="»">angle | cometa | cometa llatina dreta | dreta | galó | parèntesi | signe d’inserció</annotation>
+		<annotation cp="»" type="tts">cometa llatina dreta</annotation>
+		<annotation cp="§">paràgraf | part | secció</annotation>
+		<annotation cp="§" type="tts">secció</annotation>
+		<annotation cp="†">diesi | obelisc | obelos | signe d’obelisc</annotation>
+		<annotation cp="†" type="tts">signe d’obelisc</annotation>
+		<annotation cp="‡">diesi | dos | obelisc | obelos | signe d’obelisc de dos braços</annotation>
+		<annotation cp="‡" type="tts">signe d’obelisc de dos braços</annotation>
+		<annotation cp="•">pic | punt | punt de llista</annotation>
+		<annotation cp="•" type="tts">punt de llista</annotation>
+		<annotation cp="°">grau | hora | prova</annotation>
+		<annotation cp="°" type="tts">grau</annotation>
+		<annotation cp="℗">copyright | enregistrament | enregistrament de so amb copyright | so</annotation>
+		<annotation cp="℗" type="tts">enregistrament de so amb copyright</annotation>
+		<annotation cp="←">esquerra | fletxa | fletxa que apunta cap a l’esquerra</annotation>
+		<annotation cp="←" type="tts">fletxa que apunta cap a l’esquerra</annotation>
+		<annotation cp="→">dreta | fletxa | fletxa que apunta cap a la dreta</annotation>
+		<annotation cp="→" type="tts">fletxa que apunta cap a la dreta</annotation>
+		<annotation cp="↑">amunt | fletxa | fletxa que apunta cap amunt</annotation>
+		<annotation cp="↑" type="tts">fletxa que apunta cap amunt</annotation>
+		<annotation cp="↓">avall | fletxa | fletxa que apunta cap avall</annotation>
+		<annotation cp="↓" type="tts">fletxa que apunta cap avall</annotation>
+		<annotation cp="⇅">amunt | avall | fletxa | fletxes que apunten cap amunt i cap avall</annotation>
+		<annotation cp="⇅" type="tts">fletxes que apunten cap amunt i cap avall</annotation>
+		<annotation cp="⇆">dreta | esquerra | fletxa | fletxa que apunta cap a l’esquerra sobre una fletxa que apunta cap a la dreta | fletxes cap a l’esquerra i la dreta</annotation>
+		<annotation cp="⇆" type="tts">fletxes cap a l’esquerra i la dreta</annotation>
+		<annotation cp="∆">increment | triangle</annotation>
+		<annotation cp="∆" type="tts">increment</annotation>
+		<annotation cp="∇">nabla | triangle</annotation>
+		<annotation cp="∇" type="tts">nabla</annotation>
+		<annotation cp="∈">conjunt | conté | element | element de | pertany a</annotation>
+		<annotation cp="∈" type="tts">element de</annotation>
+		<annotation cp="÷">dividir | divisió | divisor | signe de divisió</annotation>
+		<annotation cp="÷" type="tts">signe de divisió</annotation>
+		<annotation cp="×">multiplicació | multiplicador | multiplicar | signe de multiplicació</annotation>
+		<annotation cp="×" type="tts">signe de multiplicació</annotation>
+		<annotation cp="⁻">resta | superíndex</annotation>
+		<annotation cp="⁻" type="tts">superíndex resta</annotation>
+		<annotation cp="√">arrel | arrel quadrada | quadrat | radical | signe d’arrel</annotation>
+		<annotation cp="√" type="tts">arrel quadrada</annotation>
+		<annotation cp="∞">infinit | signe d’infinit</annotation>
+		<annotation cp="∞" type="tts">signe d’infinit</annotation>
+		<annotation cp="∩">conjunt | intersecció</annotation>
+		<annotation cp="∩" type="tts">intersecció</annotation>
+		<annotation cp="∪">col·lecció | conjunt | unió</annotation>
+		<annotation cp="∪" type="tts">unió</annotation>
+		<annotation cp="≡">exacte | idèntic | idèntic a | triple</annotation>
+		<annotation cp="≡" type="tts">idèntic a</annotation>
+		<annotation cp="⊂">conjunt | subconjunt | subconjunt de</annotation>
+		<annotation cp="⊂" type="tts">subconjunt de</annotation>
+		<annotation cp="▲">amunt | fletxa | ple | triangle | triangle ple que apunta cap amunt</annotation>
+		<annotation cp="▲" type="tts">triangle ple que apunta cap amunt</annotation>
+		<annotation cp="▼">avall | fletxa | ple | triangle | triangle ple que apunta cap avall</annotation>
+		<annotation cp="▼" type="tts">triangle ple que apunta cap avall</annotation>
+		<annotation cp="◊">diamant | píndola | rombe</annotation>
+		<annotation cp="◊" type="tts">rombe</annotation>
+		<annotation cp="○">anell | cercle | cercle buit</annotation>
+		<annotation cp="○" type="tts">cercle buit</annotation>
+		<annotation cp="●">cercle | cercle ple</annotation>
+		<annotation cp="●" type="tts">cercle ple</annotation>
+		<annotation cp="◯">anell | cercle | cercle buit gran</annotation>
+		<annotation cp="◯" type="tts">cercle buit gran</annotation>
 		<annotation cp="⚧">símbol transgènere | trans | transgènere</annotation>
 		<annotation cp="⚧" type="tts">símbol transgènere</annotation>
 		<annotation cp="🤌">dits | dits junts | gest de la mà | interrogació | sarcàstic</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">bandera de l’arc de Sant Martí</annotation>
 		<annotation cp="🏴‍☠">bandera pirata | botí | Jolly Roger | pirata | tresor</annotation>
 		<annotation cp="🏴‍☠" type="tts">bandera pirata</annotation>
+		<annotation cp="£">divisa | EGP | esterlina | GBP | lliura | moneda</annotation>
+		<annotation cp="£" type="tts">lliura</annotation>
+		<annotation cp="¥">CNY | ien | iuan | JPY | moneda</annotation>
+		<annotation cp="¥" type="tts">ien</annotation>
+		<annotation cp="€">divisa | EUR | euro | moneda</annotation>
+		<annotation cp="€" type="tts">euro</annotation>
+		<annotation cp="₹">moneda | rupia | rupia índia</annotation>
+		<annotation cp="₹" type="tts">rupia índia</annotation>
+		<annotation cp="₽">moneda | ruble</annotation>
+		<annotation cp="₽" type="tts">ruble</annotation>
+		<annotation cp="¹">superíndex | u</annotation>
+		<annotation cp="¹" type="tts">superíndex u</annotation>
+		<annotation cp="²">al quadrat | dos | superíndex</annotation>
+		<annotation cp="²" type="tts">superíndex dos</annotation>
+		<annotation cp="³">al cub | superíndex | tres</annotation>
+		<annotation cp="³" type="tts">superíndex tres</annotation>
+		<annotation cp="µ">mesura | signe de micró</annotation>
+		<annotation cp="µ" type="tts">signe de micró</annotation>
 	</annotations>
 </ldml>

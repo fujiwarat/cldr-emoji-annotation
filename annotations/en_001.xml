@@ -14,6 +14,10 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<territory type="001"/>
 	</identity>
 	<annotations>
+		<annotation cp="†">dagger | dagger sign | dagger symbol | obelisk | obelus</annotation>
+		<annotation cp="†" type="tts">dagger symbol</annotation>
+		<annotation cp="‡">dagger | double | double dagger sign | double dagger symbol | obelisk | obelus</annotation>
+		<annotation cp="‡" type="tts">double dagger symbol</annotation>
 		<annotation cp="⚧">trans | transgender</annotation>
 		<annotation cp="🦭">sea lion | seal</annotation>
 		<annotation cp="🩴">beach sandals | flip-flop | flipflop | sandals | thong sandals | thongs | zori | zōri</annotation>
@@ -374,5 +378,9 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="™" type="tts">trademark</annotation>
 		<annotation cp="🏳‍⚧">flag | light blue | pink | trans | transgender | white</annotation>
 		<annotation cp="🏳‍🌈">pride | rainbow | rainbow flag</annotation>
+		<annotation cp="£">currency | EGP | GBP | pound | quid | sterling</annotation>
+		<annotation cp="₽">currency | rouble | ruble</annotation>
+		<annotation cp="µ">measure | micro sign | mu</annotation>
+		<annotation cp="µ" type="tts">↑↑↑</annotation>
 	</annotations>
 </ldml>

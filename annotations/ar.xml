@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">بشرة بلون معتدل مائل للغامق</annotation>
 		<annotation cp="🏿">بشرة بلون غامق | تعديل | جلد | رمز | لون | نوع جلد 6</annotation>
 		<annotation cp="🏿" type="tts">بشرة بلون غامق</annotation>
+		<annotation cp="–">شرطة | قصيرة</annotation>
+		<annotation cp="–" type="tts">شرطة قصيرة</annotation>
+		<annotation cp="—">شرطة | طويلة</annotation>
+		<annotation cp="—" type="tts">شرطة طويلة</annotation>
+		<annotation cp="·">متوسط | نقطة | نقطة متوسطة | وسط</annotation>
+		<annotation cp="·" type="tts">نقطة متوسطة</annotation>
+		<annotation cp="«">أقواس معقوفة | اقتباس | تنصيص | شارة رتبة | علامة اقتباس يسرى | نهاية الاقتباس</annotation>
+		<annotation cp="«" type="tts">علامة اقتباس يسرى</annotation>
+		<annotation cp="»">أقواس معقوفة | اقتباس | بداية الاقتباس | تنصيص | شارة رتبة | علامة اقتباس يمنى</annotation>
+		<annotation cp="»" type="tts">علامة اقتباس يمنى</annotation>
+		<annotation cp="§">جزء | قسم | مقطع</annotation>
+		<annotation cp="§" type="tts">قسم</annotation>
+		<annotation cp="†">إيضاح | حاشية | خنجر | رمز الخنجر</annotation>
+		<annotation cp="†" type="tts">رمز الخنجر</annotation>
+		<annotation cp="‡">إيضاح | حاشية | خنجر مزدوج | رمز الخنجر المزدوج</annotation>
+		<annotation cp="‡" type="tts">رمز الخنجر المزدوج</annotation>
+		<annotation cp="•">تعداد | نقطة</annotation>
+		<annotation cp="•" type="tts">نقطة تعداد</annotation>
+		<annotation cp="°">حرارة | درجة | ساعة</annotation>
+		<annotation cp="°" type="tts">درجة</annotation>
+		<annotation cp="℗">تسجيل | حقوق الطبع والنشر | حقوق الطبع والنشر لتسجيل صوتي | صوت</annotation>
+		<annotation cp="℗" type="tts">حقوق الطبع والنشر لتسجيل صوتي</annotation>
+		<annotation cp="←">اتجاه لليسار | سهم | سهم متّجه لليسار | يسار</annotation>
+		<annotation cp="←" type="tts">سهم متّجه لليسار</annotation>
+		<annotation cp="→">اتجاه لليمين | سهم | سهم متّجه لليمين | يمين</annotation>
+		<annotation cp="→" type="tts">سهم متّجه لليمين</annotation>
+		<annotation cp="↑">أعلى | اتجاه للأعلى | سهم | سهم متّجه للأعلى</annotation>
+		<annotation cp="↑" type="tts">سهم متّجه للأعلى</annotation>
+		<annotation cp="↓">أسفل | اتجاه للأسفل | سهم | سهم متّجه للأسفل</annotation>
+		<annotation cp="↓" type="tts">سهم متّجه للأسفل</annotation>
+		<annotation cp="⇅">أسفل | أعلى | سهم | سهم للأعلى وسهم للأسفل | سهم متّجه للأعلى وآخر للأسفل</annotation>
+		<annotation cp="⇅" type="tts">سهم متّجه للأعلى وآخر للأسفل</annotation>
+		<annotation cp="⇆">سهم | سهم لليسار فوق سهم لليمين | سهم متّجه لليسار وتحته سهم متّجه لليمين | يسار | يمين</annotation>
+		<annotation cp="⇆" type="tts">سهم متّجه لليسار وتحته سهم متّجه لليمين</annotation>
+		<annotation cp="∆">زيادة | مثلث</annotation>
+		<annotation cp="∆" type="tts">زيادة</annotation>
+		<annotation cp="∇">دل | مؤثر دل | مثلث | نابلا</annotation>
+		<annotation cp="∇" type="tts">مؤثر دل</annotation>
+		<annotation cp="∈">انتماء | علاقة | عنصر | مجموعة | ينتمي</annotation>
+		<annotation cp="∈" type="tts">ينتمي</annotation>
+		<annotation cp="÷">علامة القسمة | عملية حسابية | قسم | قسمة</annotation>
+		<annotation cp="÷" type="tts">علامة القسمة</annotation>
+		<annotation cp="×">ضرب | علامة الضرب | عملية حسابية | مضروب</annotation>
+		<annotation cp="×" type="tts">علامة الضرب</annotation>
+		<annotation cp="⁻">علامة ناقص علوية | علوي | ناقص</annotation>
+		<annotation cp="⁻" type="tts">علامة ناقص علوية</annotation>
+		<annotation cp="√">أساس | أصم | جذر | جذر تربيعي | عدد جذري | مربع</annotation>
+		<annotation cp="√" type="tts">جذر تربيعي</annotation>
+		<annotation cp="∞">علامة اللانهاية | لانهاية</annotation>
+		<annotation cp="∞" type="tts">علامة اللانهاية</annotation>
+		<annotation cp="∩">تقاطع | عناصر مشتركة | مجموعة</annotation>
+		<annotation cp="∩" type="tts">تقاطع</annotation>
+		<annotation cp="∪">اتحاد | دمج | مجموعة</annotation>
+		<annotation cp="∪" type="tts">اتحاد</annotation>
+		<annotation cp="≡">علامة التساوي | مطابق | معامل ثلاثي المساواة | مماثل | يساوي</annotation>
+		<annotation cp="≡" type="tts">يساوي</annotation>
+		<annotation cp="⊂">جزء | مجموعة | مجموعة فرعية | يحتوي</annotation>
+		<annotation cp="⊂" type="tts">يحتوي</annotation>
+		<annotation cp="▲">أعلى | سهم | مثلث | مثلث ممتلئ متّجه للأعلى | ممتلئ</annotation>
+		<annotation cp="▲" type="tts">مثلث ممتلئ متّجه للأعلى</annotation>
+		<annotation cp="▼">أسفل | سهم | مثلث | مثلث ممتلئ متّجه للأسفل | ممتلئ</annotation>
+		<annotation cp="▼" type="tts">مثلث ممتلئ متّجه للأسفل</annotation>
+		<annotation cp="◊">شكل رباعي | شكل هندسي | معيّن</annotation>
+		<annotation cp="◊" type="tts">معيّن</annotation>
+		<annotation cp="○">حلقة | دائرة | مجوّفة | مفرغة</annotation>
+		<annotation cp="○" type="tts">دائرة مفرغة</annotation>
+		<annotation cp="●">دائرة | ممتلئة</annotation>
+		<annotation cp="●" type="tts">دائرة ممتلئة</annotation>
+		<annotation cp="◯">حلقة | دائرة | كبيرة | مجوّفة | مفرغة</annotation>
+		<annotation cp="◯" type="tts">دائرة مفرغة كبيرة</annotation>
 		<annotation cp="⚧">رمز المتحوّلين جنسيًا | متحوّل جنسيًا | متحوّلة جنسيًا</annotation>
 		<annotation cp="⚧" type="tts">رمز المتحوّلين جنسيًا</annotation>
 		<annotation cp="🤌">أصابع | أصابع مضمومة | إيماءة باليد | تهكّم | ضم</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">علم ألوان طيف</annotation>
 		<annotation cp="🏴‍☠">جولي روجر | علم قراصنة | قراصنة | قرصنة | كنز | كنوز</annotation>
 		<annotation cp="🏴‍☠" type="tts">علم قراصنة</annotation>
+		<annotation cp="£">باوند | جنيه | جنيه إسترليني | جنيه مصري | عملة</annotation>
+		<annotation cp="£" type="tts">جنيه</annotation>
+		<annotation cp="¥">الصين | اليابان | رنمينبي | عملة | ين | يوان</annotation>
+		<annotation cp="¥" type="tts">ين</annotation>
+		<annotation cp="€">أوروبا | عملة | يورو</annotation>
+		<annotation cp="€" type="tts">يورو</annotation>
+		<annotation cp="₹">روبيه | عملة | هندي</annotation>
+		<annotation cp="₹" type="tts">روبيه هندي</annotation>
+		<annotation cp="₽">روبل | عملة</annotation>
+		<annotation cp="₽" type="tts">روبل</annotation>
+		<annotation cp="¹">رقم واحد علوي | علوي | واحد</annotation>
+		<annotation cp="¹" type="tts">رقم واحد علوي</annotation>
+		<annotation cp="²">اثنان | رقم اثنين علوي | علوي | مربع</annotation>
+		<annotation cp="²" type="tts">رقم اثنين علوي</annotation>
+		<annotation cp="³">ثلاثة | رقم ثلاثة علوي | علوي | مكعب</annotation>
+		<annotation cp="³" type="tts">رقم ثلاثة علوي</annotation>
+		<annotation cp="µ">رمز وحدة الميكرو | قياس | ميكرو</annotation>
+		<annotation cp="µ" type="tts">رمز وحدة الميكرو</annotation>
 	</annotations>
 </ldml>

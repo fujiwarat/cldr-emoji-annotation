@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">សម្បុរខ្មៅល្មម</annotation>
 		<annotation cp="🏿">ប្រភេទទី 6 | សម្បុរ | សម្បុរខ្មៅ</annotation>
 		<annotation cp="🏿" type="tts">សម្បុរខ្មៅ</annotation>
+		<annotation cp="–">តូច | សញ្ញាដក | សញ្ញាដកតូច</annotation>
+		<annotation cp="–" type="tts">សញ្ញាដកតូច</annotation>
+		<annotation cp="—">ធំ | សញ្ញាដក | សញ្ញាដកធំ</annotation>
+		<annotation cp="—" type="tts">សញ្ញាដកធំ</annotation>
+		<annotation cp="·">កណ្ដាល | ចុចកណ្ដាល | សញ្ញាចុច | សញ្ញាចុចកណ្ដាល</annotation>
+		<annotation cp="·" type="tts">សញ្ញាចុចកណ្ដាល</annotation>
+		<annotation cp="«">ឆ្វេង | ដង្កៀប | មុំ | សញ្ញា &quot;&quot; | សញ្ញា [v] | សញ្ញា ^ | សញ្ញាដង្កៀបឆេ្វង | សញ្ញាដង្កៀបឆ្វេង</annotation>
+		<annotation cp="«" type="tts">សញ្ញាដង្កៀបឆ្វេង</annotation>
+		<annotation cp="»" draft="provisional">ដង្កៀប | មុំ | សញ្ញា &quot;&quot; | សញ្ញា [v] | សញ្ញា ^ | សញ្ញាដង្កៀបស្ដាំ</annotation>
+		<annotation cp="»" type="tts">សញ្ញាដង្កៀបស្ដាំ</annotation>
+		<annotation cp="§">កថាខណ្ឌ | ចំណែក | ផ្នែក | សញ្ញាផ្នែក</annotation>
+		<annotation cp="§" type="tts">ផ្នែក</annotation>
+		<annotation cp="†">កាំបិតស្នៀត | សញ្ញាកាំបិតស្នៀត | សញ្ញាចែក | សិលាស្ដម្ភ</annotation>
+		<annotation cp="†" type="tts">សញ្ញាកាំបិតស្នៀត</annotation>
+		<annotation cp="‡">កាំបិតស្នៀត | ពីរ | សញ្ញាកាំបិតស្នៀតពីរ | សញ្ញាចែក | សិលាស្ដម្ភ</annotation>
+		<annotation cp="‡" type="tts">សញ្ញាកាំបិតស្នៀតពីរ</annotation>
+		<annotation cp="•">សញ្ញាចុច | សញ្ញាចុចមូល</annotation>
+		<annotation cp="•" type="tts">សញ្ញាចុចមូល</annotation>
+		<annotation cp="°">ដឺក្រេ | ភស្ដុតាង | ម៉ោង</annotation>
+		<annotation cp="°" type="tts">ដឺក្រេ</annotation>
+		<annotation cp="℗">ថត | រក្សាសិទ្ធិ | រក្សាសិទ្ធិថតសំឡេង | សំឡេង</annotation>
+		<annotation cp="℗" type="tts">រក្សាសិទ្ធិថតសំឡេង</annotation>
+		<annotation cp="←">ឆ្វេង | ព្រួញ | ព្រួញចង្អុលទៅឆ្វេង</annotation>
+		<annotation cp="←" type="tts">ព្រួញចង្អុលទៅឆ្វេង</annotation>
+		<annotation cp="→">ព្រួញ | ព្រួញចង្អុលទៅស្ដាំ | ស្ដាំ</annotation>
+		<annotation cp="→" type="tts">ព្រួញចង្អុលទៅស្ដាំ</annotation>
+		<annotation cp="↑">ព្រួញ | ព្រួញចង្អុលឡើងលើ | ឡើងលើ</annotation>
+		<annotation cp="↑" type="tts">ព្រួញចង្អុលឡើងលើ</annotation>
+		<annotation cp="↓">ចុះក្រោម | ព្រួញ | ព្រួញចង្អុលចុះក្រោម</annotation>
+		<annotation cp="↓" type="tts">ព្រួញចង្អុលចុះក្រោម</annotation>
+		<annotation cp="⇅">ចុះក្រោម | ព្រួញ | ព្រួញចង្អុលឡើងលើ និងព្រួញចង្អុលចុះក្រោម | ឡើងលើ</annotation>
+		<annotation cp="⇅" type="tts">ព្រួញចង្អុលឡើងលើ និងព្រួញចង្អុលចុះក្រោម</annotation>
+		<annotation cp="⇆">ឆ្វេង | ព្រួញ | ព្រួញចង្អុលទៅឆ្វេងនៅលើព្រួញចង្អុលទៅស្តាំ | ស្ដាំ</annotation>
+		<annotation cp="⇆" type="tts">ព្រួញចង្អុលទៅឆ្វេងនៅលើព្រួញចង្អុលទៅស្តាំ</annotation>
+		<annotation cp="∆">ដែលតា | ត្រីកោណ</annotation>
+		<annotation cp="∆" type="tts">ដែលតា</annotation>
+		<annotation cp="∇">ណាប់ឡា | ត្រីកោណ</annotation>
+		<annotation cp="∇" type="tts">ណាប់ឡា</annotation>
+		<annotation cp="∈">ធាតុ | ធាតុនៃ | មាន | សំណុំ | សមាជិកភាព</annotation>
+		<annotation cp="∈" type="tts">ធាតុនៃ</annotation>
+		<annotation cp="÷">ការចែក | ចែក | និមិត្តសញ្ញាចែក | សញ្ញាចែក</annotation>
+		<annotation cp="÷" type="tts">និមិត្តសញ្ញាចែក</annotation>
+		<annotation cp="×">ការគុណ | គុណ | ដង | និមិត្តសញ្ញាគុណ</annotation>
+		<annotation cp="×" type="tts">និមិត្តសញ្ញាគុណ</annotation>
+		<annotation cp="⁻">តូចនៅលើ | សញ្ញាដក | សញ្ញាដកតូចនៅលើ</annotation>
+		<annotation cp="⁻" type="tts">សញ្ញាដកតូចនៅលើ</annotation>
+		<annotation cp="√">ការ៉េ | រ៉ាឌិក | រ៉ាឌីកាល់ | សញ្ញាឬសការ៉េ | ឬស | ឬសការ៉េ</annotation>
+		<annotation cp="√" type="tts">ឬសការ៉េ</annotation>
+		<annotation cp="∞">និមិត្តសញ្ញាអនន្ត | អនន្ត</annotation>
+		<annotation cp="∞" type="tts">និមិត្តសញ្ញាអនន្ត</annotation>
+		<annotation cp="∩">ប្រជុំ | សំណុំ</annotation>
+		<annotation cp="∩" type="tts">ប្រជុំ</annotation>
+		<annotation cp="∪">បណ្ដុំ | ប្រសព្វ | សំណុំ</annotation>
+		<annotation cp="∪" type="tts">ប្រសព្វ</annotation>
+		<annotation cp="≡">ដូច | ត្រីគុណ | ស្មើ | ស្មើនឹង</annotation>
+		<annotation cp="≡" type="tts">ស្មើនឹង</annotation>
+		<annotation cp="⊂">សំណុំ | សំណុំរង | សំណុំរងនៃ</annotation>
+		<annotation cp="⊂" type="tts">សំណុំរងនៃ</annotation>
+		<annotation cp="▲">ខ្មៅ | ត្រីកោណ | ត្រីកោណខ្មៅបែរឡើងលើ | ព្រួញ | ឡើងលើ</annotation>
+		<annotation cp="▲" type="tts">ត្រីកោណខ្មៅបែរឡើងលើ</annotation>
+		<annotation cp="▼">ខ្មៅ | ចុះក្រោម | ត្រីកោណ | ត្រីកោណខ្មៅបែរចុះក្រោម | ព្រួញ</annotation>
+		<annotation cp="▼" type="tts">ត្រីកោណខ្មៅបែរចុះក្រោម</annotation>
+		<annotation cp="◊">ពេជ្រ | សញ្ញាដូចពេជ្រ | សញ្ញាពេជ្រ</annotation>
+		<annotation cp="◊" type="tts">សញ្ញាពេជ្រ</annotation>
+		<annotation cp="○">កងមូល | មូល | មូលប្រហោង</annotation>
+		<annotation cp="○" type="tts">មូលប្រហោង</annotation>
+		<annotation cp="●">ខ្មៅមូល | មូល</annotation>
+		<annotation cp="●" type="tts">ខ្មៅមូល</annotation>
+		<annotation cp="◯">កងមូល | មូល | មូលប្រហោងធំ</annotation>
+		<annotation cp="◯" type="tts">មូលប្រហោងធំ</annotation>
 		<annotation cp="⚧">និមិត្តសញ្ញាភេទទីបី | ភេទទីបី</annotation>
 		<annotation cp="⚧" type="tts">និមិត្តសញ្ញាភេទទីបី</annotation>
 		<annotation cp="🤌">កាយវិការដៃ | ការស៊ើបអង្កេត | ចំអកបញ្ឈឺចិត្ត | ច្បិច | ម្រាមច្បិច | ម្រាមដៃ</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">ទង់ឥន្ទធនូ</annotation>
 		<annotation cp="🏴‍☠">Jolly Roger | កំណប់ | ការលួចប្លន់ | ចោរសមុទ្រ | ទង់ចោរសមុទ្រ</annotation>
 		<annotation cp="🏴‍☠" type="tts">ទង់ចោរសមុទ្រ</annotation>
+		<annotation cp="£" draft="provisional">[EGP] | [GBP] | ផោន | រូបិយបណ្ណ</annotation>
+		<annotation cp="£" type="tts">ផោន</annotation>
+		<annotation cp="¥" draft="provisional">[CNY] | [JPY] | យ័ន | យេន | រូបិយបណ្ណ</annotation>
+		<annotation cp="¥" type="tts">យេន</annotation>
+		<annotation cp="€" draft="provisional">[EUR] | រូបិយបណ្ណ | អឺរ៉ូ</annotation>
+		<annotation cp="€" type="tts">អឺរ៉ូ</annotation>
+		<annotation cp="₹">រូបិយបណ្ណ | រូពី | រូពីឥណ្ឌា</annotation>
+		<annotation cp="₹" type="tts">រូពីឥណ្ឌា</annotation>
+		<annotation cp="₽">រ៉ូបល់ | រូបិយបណ្ណ</annotation>
+		<annotation cp="₽" type="tts">រ៉ូបល់</annotation>
+		<annotation cp="¹">តូចនៅលើ | លេខមួយ | លេខមួយតូចនៅលើ</annotation>
+		<annotation cp="¹" type="tts">លេខមួយតូចនៅលើ</annotation>
+		<annotation cp="²">ការ៉េ | តូចនៅលើ | លេខពីរ | លេខពីរតូចនៅលើ</annotation>
+		<annotation cp="²" type="tts">លេខពីរតូចនៅលើ</annotation>
+		<annotation cp="³">គូប | តូចនៅលើ | លេខបី | លេខបីតូចនៅលើ</annotation>
+		<annotation cp="³" type="tts">លេខបីតូចនៅលើ</annotation>
+		<annotation cp="µ">ខ្នាត | សញ្ញាមីក្រូ</annotation>
+		<annotation cp="µ" type="tts">សញ្ញាមីក្រូ</annotation>
 	</annotations>
 </ldml>

@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">donkergetinte huidskleur</annotation>
 		<annotation cp="🏿">donkere huidskleur | huidskleur | type 6</annotation>
 		<annotation cp="🏿" type="tts">donkere huidskleur</annotation>
+		<annotation cp="–">gedachte | gedachtestreepje | streepje</annotation>
+		<annotation cp="–" type="tts">gedachtestreepje</annotation>
+		<annotation cp="—">aandacht | aandachtsstreepje | streepje</annotation>
+		<annotation cp="—" type="tts">aandachtsstreepje</annotation>
+		<annotation cp="·">hoge | interpunct | punt</annotation>
+		<annotation cp="·" type="tts">hoge punt</annotation>
+		<annotation cp="«">aanhalingsteken | guillemet naar links | haakjes | hoek | inlastekens | links | onderscheidingsteken</annotation>
+		<annotation cp="«" type="tts">guillemet naar links</annotation>
+		<annotation cp="»">aanhalingsteken | guillemet naar rechts | haakjes | hoek | inlastektekens | onderscheidingsteken | rechts</annotation>
+		<annotation cp="»" type="tts">guillemet naar rechts</annotation>
+		<annotation cp="§">deel | paragraaf | paragraafsymbool</annotation>
+		<annotation cp="§" type="tts">paragraaf</annotation>
+		<annotation cp="†">obelisk | obelus</annotation>
+		<annotation cp="†" type="tts">obelisk</annotation>
+		<annotation cp="‡">dubbel | dubbele obelisk | obelisk | obelus</annotation>
+		<annotation cp="‡" type="tts">dubbele obelisk</annotation>
+		<annotation cp="•">bullet | rondje</annotation>
+		<annotation cp="•" type="tts">bullet</annotation>
+		<annotation cp="°">bewijs | graden | uur</annotation>
+		<annotation cp="°" type="tts">graden</annotation>
+		<annotation cp="℗">copyright | copyright geluidsopname | geluid | opname</annotation>
+		<annotation cp="℗" type="tts">copyright geluidsopname</annotation>
+		<annotation cp="←">links | naar links wijzende pijl | pijl</annotation>
+		<annotation cp="←" type="tts">naar links wijzende pijl</annotation>
+		<annotation cp="→">naar rechts wijzende pijl | pijl | rechts</annotation>
+		<annotation cp="→" type="tts">naar rechts wijzende pijl</annotation>
+		<annotation cp="↑">omhoog | omhoog wijzende pijl | pijl</annotation>
+		<annotation cp="↑" type="tts">omhoog wijzende pijl</annotation>
+		<annotation cp="↓">omlaag | omlaag wijzende pijl | pijl</annotation>
+		<annotation cp="↓" type="tts">omlaag wijzende pijl</annotation>
+		<annotation cp="⇅">omhoog | omhoog en omlaag wijzende pijlen | omlaag | pijl</annotation>
+		<annotation cp="⇅" type="tts">omhoog en omlaag wijzende pijlen</annotation>
+		<annotation cp="⇆">links | naar links boven naar rechts wijzende pijlen | naar links wijzende boven naar rechts wijzende pijlen | pijl | rechts</annotation>
+		<annotation cp="⇆" type="tts">naar links boven naar rechts wijzende pijlen</annotation>
+		<annotation cp="∆">driehoek | toename</annotation>
+		<annotation cp="∆" type="tts">toename</annotation>
+		<annotation cp="∇">driehoek | nabla</annotation>
+		<annotation cp="∇" type="tts">nabla</annotation>
+		<annotation cp="∈">bevat | element | element van | lidmaatschap | verzameling</annotation>
+		<annotation cp="∈" type="tts">element van</annotation>
+		<annotation cp="÷">deelteken | delen | deling | gedeeld door teken | obelus</annotation>
+		<annotation cp="÷" type="tts">deelteken</annotation>
+		<annotation cp="×">keer | vermenigvuldigen | vermenigvuldiging | vermenigvuldigingsteken</annotation>
+		<annotation cp="×" type="tts">vermenigvuldigingsteken</annotation>
+		<annotation cp="⁻">min | superscript</annotation>
+		<annotation cp="⁻" type="tts">superscript min</annotation>
+		<annotation cp="√">onmeetbaar getal | radix | vierkant | vierkantswortel | wortel | wortelvorm</annotation>
+		<annotation cp="√" type="tts">vierkantswortel</annotation>
+		<annotation cp="∞">oneindig | oneindig teken</annotation>
+		<annotation cp="∞" type="tts">oneindig teken</annotation>
+		<annotation cp="∩">doorsnede | verzameling</annotation>
+		<annotation cp="∩" type="tts">doorsnede</annotation>
+		<annotation cp="∪">reeks | vereniging | verzameling</annotation>
+		<annotation cp="∪" type="tts">vereniging</annotation>
+		<annotation cp="≡">drievoud | gelijk | gelijk aan | is gelijk aan | precies</annotation>
+		<annotation cp="≡" type="tts">is gelijk aan</annotation>
+		<annotation cp="⊂">deelverzameling | deelverzameling van | verzameling</annotation>
+		<annotation cp="⊂" type="tts">deelverzameling van</annotation>
+		<annotation cp="▲">driehoek | gevuld | gevulde, omhoog wijzende driehoek | omhoog | pijl</annotation>
+		<annotation cp="▲" type="tts">gevulde, omhoog wijzende driehoek</annotation>
+		<annotation cp="▼">driehoek | gevuld | gevulde, omlaag wijzende driehoek | omlaag | pijl</annotation>
+		<annotation cp="▼" type="tts">gevulde, omlaag wijzende driehoek</annotation>
+		<annotation cp="◊">ruit | ruitvorm | ruitvormig</annotation>
+		<annotation cp="◊" type="tts">ruit</annotation>
+		<annotation cp="○">cirkel | holle cirkel | ring</annotation>
+		<annotation cp="○" type="tts">holle cirkel</annotation>
+		<annotation cp="●">cirkel | gevulde cirkel</annotation>
+		<annotation cp="●" type="tts">gevulde cirkel</annotation>
+		<annotation cp="◯">cirkel | grote holle cirkel | ring</annotation>
+		<annotation cp="◯" type="tts">grote holle cirkel</annotation>
 		<annotation cp="⚧">transgender | transgendersymbool</annotation>
 		<annotation cp="⚧" type="tts">transgendersymbool</annotation>
 		<annotation cp="🤌">handgebaar | ondervraging | samengeknepen | sarcastisch | vingers</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">regenboogvlag</annotation>
 		<annotation cp="🏴‍☠">Jolly Roger | piraat | piratenvlag | plunderen | schat</annotation>
 		<annotation cp="🏴‍☠" type="tts">piratenvlag</annotation>
+		<annotation cp="£">Brits pond | EGP | GBP | valuta</annotation>
+		<annotation cp="£" type="tts">Brits pond</annotation>
+		<annotation cp="¥">CNY | JPY | valuta | yen | yuan</annotation>
+		<annotation cp="¥" type="tts">yen</annotation>
+		<annotation cp="€">EUR | euro | valuta</annotation>
+		<annotation cp="€" type="tts">euro</annotation>
+		<annotation cp="₹">Indiase roepie | roepie | valuta</annotation>
+		<annotation cp="₹" type="tts">Indiase roepie</annotation>
+		<annotation cp="₽">roebel | valuta</annotation>
+		<annotation cp="₽" type="tts">roebel</annotation>
+		<annotation cp="¹">één | superscript</annotation>
+		<annotation cp="¹" type="tts">superscript één</annotation>
+		<annotation cp="²">in het kwadraat | superscript | twee</annotation>
+		<annotation cp="²" type="tts">superscript twee</annotation>
+		<annotation cp="³">drie | kubieke | superscript</annotation>
+		<annotation cp="³" type="tts">superscript drie</annotation>
+		<annotation cp="µ">maat | mu</annotation>
+		<annotation cp="µ" type="tts">mu</annotation>
 	</annotations>
 </ldml>

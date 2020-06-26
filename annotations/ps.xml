@@ -21,6 +21,76 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏾" type="tts">غنمی-تورنګه پوستکۍ</annotation>
 		<annotation cp="🏿">پوستکۍ | تور پوستکۍ | ډول ۶</annotation>
 		<annotation cp="🏿" type="tts">تور پوستکۍ</annotation>
+		<annotation cp="–">پای | کرښک</annotation>
+		<annotation cp="–" type="tts">پای کرښک</annotation>
+		<annotation cp="—">اوږده | کرښک</annotation>
+		<annotation cp="—" type="tts">اوږده کرښک</annotation>
+		<annotation cp="·">ټکي | درونی | منځوني | مینځني ټکي</annotation>
+		<annotation cp="·" type="tts">مینځني ټکي</annotation>
+		<annotation cp="«">اخيستنښه | زاویه | ښی وینالېږد نښه | قوسونه | کيڼ وینالېږد نښه | کیڼ | کیڼحولی | هشتکونه</annotation>
+		<annotation cp="«" type="tts">کيڼ وینالېږد نښه</annotation>
+		<annotation cp="»">اخيستنښه | زاویه | ښی | ښی وینالېږد نښه | قوسونه | کیڼحولی | هشتکونه</annotation>
+		<annotation cp="»" type="tts">ښی وینالېږد نښه</annotation>
+		<annotation cp="§">برخه | پاراګراف | سلکرو</annotation>
+		<annotation cp="§" type="tts">برخه</annotation>
+		<annotation cp="†">خنجر | د خنجر نښه | ویش نښه</annotation>
+		<annotation cp="†" type="tts">د خنجر نښه</annotation>
+		<annotation cp="‡">دوګني ویش نښه | ډیګر | ویش نښه</annotation>
+		<annotation cp="‡" type="tts">دوګني ویش نښه</annotation>
+		<annotation cp="•">ټکي | ګلوله</annotation>
+		<annotation cp="•" type="tts">ګلوله</annotation>
+		<annotation cp="°">ثبوت | درجه | ساعت</annotation>
+		<annotation cp="°" type="tts">درجه</annotation>
+		<annotation cp="℗">ثبتول | د غږ ثبتولو نسخه حقوق | د نسخه حق | غږ</annotation>
+		<annotation cp="℗" type="tts">د غږ ثبتولو نسخه حقوق</annotation>
+		<annotation cp="←">غشی | کي- ښکارونکی غشی | کي-- ښکارونکی غشی | کيڼ</annotation>
+		<annotation cp="←" type="tts">کي-- ښکارونکی غشی</annotation>
+		<annotation cp="→">ښي - ښکارونکی غشی | ښۍ | غشی</annotation>
+		<annotation cp="→" type="tts">ښي - ښکارونکی غشی</annotation>
+		<annotation cp="↑">بره | غځېدونکې غشی | غشی</annotation>
+		<annotation cp="↑" type="tts">غځېدونکې غشی</annotation>
+		<annotation cp="↓">ښکته | ښکته-ښکارونکی غشی | غشی</annotation>
+		<annotation cp="↓" type="tts">ښکته-ښکارونکی غشی</annotation>
+		<annotation cp="⇅">بره | بره-ښیې او ښکته-ښیې غشی | ښکته | غشی</annotation>
+		<annotation cp="⇅" type="tts">بره-ښیې او ښکته-ښیې غشی</annotation>
+		<annotation cp="⇆">ښي | غشی | کيڼ | کيڼ اشاره باندې ښي اشاره غشي</annotation>
+		<annotation cp="⇆" type="tts">کيڼ اشاره باندې ښي اشاره غشي</annotation>
+		<annotation cp="∆">اضافه | مثلث</annotation>
+		<annotation cp="∆" type="tts">اضافه</annotation>
+		<annotation cp="∇">دریڅنډي | نسکوره دریڅنډي</annotation>
+		<annotation cp="∇" type="tts">نسکوره دریڅنډي</annotation>
+		<annotation cp="∈">څخه عنصر | د عنصر | شامل لري | عنصر | غړیتوب | مجموعه</annotation>
+		<annotation cp="∈" type="tts">د عنصر</annotation>
+		<annotation cp="÷">ویش نښه | وېش | وېش کول | وېش نښه</annotation>
+		<annotation cp="÷" type="tts">وېش نښه</annotation>
+		<annotation cp="×">ځله | ضرب | ضرب نښه | ضرب ورکول | ضرف نښه</annotation>
+		<annotation cp="×" type="tts">ضرب نښه</annotation>
+		<annotation cp="⁻">بالانوشت | منفي</annotation>
+		<annotation cp="⁻" type="tts">بالانوشت منفي</annotation>
+		<annotation cp="√">اصل عدد | افراطي | بنسټ | جذر | غیرناطق | مربع</annotation>
+		<annotation cp="√" type="tts">جذر</annotation>
+		<annotation cp="∞">لامحدود | لامحدود نښهلامحدود نښه</annotation>
+		<annotation cp="∞" type="tts">لامحدود نښهلامحدود نښه</annotation>
+		<annotation cp="∩">تقاطع | مجموعه</annotation>
+		<annotation cp="∩" type="tts">تقاطع</annotation>
+		<annotation cp="∪">اتحاد | ټولګه | مجموعه</annotation>
+		<annotation cp="∪" type="tts">مجموعه</annotation>
+		<annotation cp="≡">ته یکسان | دری چنده | ورته | یکسان</annotation>
+		<annotation cp="≡" type="tts">ته یکسان</annotation>
+		<annotation cp="⊂">زیر مجموعه | زیر مجموعه څخه | زیر مجموعه له | مجموعه</annotation>
+		<annotation cp="⊂" type="tts">زیر مجموعه څخه</annotation>
+		<annotation cp="▲">پورته | ډک شوی | ډکونکی - څرګندونې مثلث | ډکونکی - ښودونکی مثلث | غشی | مثلث</annotation>
+		<annotation cp="▲" type="tts">ډکونکی - څرګندونې مثلث</annotation>
+		<annotation cp="▼">ډک شوی | ډک شوی - نښې ښودونکی مثلث | ډک ښکته-اشاره د مثلث | ښکته | غشی | مثلث</annotation>
+		<annotation cp="▼" type="tts">ډک ښکته-اشاره د مثلث</annotation>
+		<annotation cp="◊">الماس | روميبس | لوزینج | لوزینګ</annotation>
+		<annotation cp="◊" type="tts">لوزینج</annotation>
+		<annotation cp="○">تشه حلقه | تشه دایره | حلقه | زنګ</annotation>
+		<annotation cp="○" type="tts">تشه دایره</annotation>
+		<annotation cp="●">دایره | ډک شوی دایره</annotation>
+		<annotation cp="●" type="tts">ډک شوی دایره</annotation>
+		<annotation cp="◯">حلقه | زنګ | لوی تش تشې حلقه | لوی تشه دایره</annotation>
+		<annotation cp="◯" type="tts">لوی تشه دایره</annotation>
 		<annotation cp="⚧">جنس بدلوونکی | د جنس بدلوونکي سمبول</annotation>
 		<annotation cp="⚧" type="tts">د جنس بدلوونکي سمبول</annotation>
 		<annotation cp="🤌">تفتيش | تنزيه | چونګ | د لاس اشاره | ګوتې</annotation>
@@ -3005,5 +3075,23 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏳‍🌈" type="tts">د بوډۍ ټال بېرغ</annotation>
 		<annotation cp="🏴‍☠">بحري ډاکو | جولي راجر | خزانه | د بحري ډاکوانو بېرغ | لوټ کول</annotation>
 		<annotation cp="🏴‍☠" type="tts">د بحري ډاکوانو بېرغ</annotation>
+		<annotation cp="£">اسعار | بریتاني پونډ | پونډ | مصري پونډ</annotation>
+		<annotation cp="£" type="tts">پونډ</annotation>
+		<annotation cp="¥">اسعار | جاپاني ین | چینايی ین | چینایي ین | ین</annotation>
+		<annotation cp="¥" type="tts">ین</annotation>
+		<annotation cp="€">اسعار | یورو</annotation>
+		<annotation cp="€" type="tts">یورو</annotation>
+		<annotation cp="₹">اسعار | روپئ | هندي روپئ | هندي روپۍ</annotation>
+		<annotation cp="₹" type="tts">هندي روپۍ</annotation>
+		<annotation cp="₽">اسعار | روبل</annotation>
+		<annotation cp="₽" type="tts">روبل</annotation>
+		<annotation cp="¹">بالانوشت | یو</annotation>
+		<annotation cp="¹" type="tts">یو بالانوشت</annotation>
+		<annotation cp="²">بالانوشت | څلوریځ | دوه</annotation>
+		<annotation cp="²" type="tts">بالانوشت دوه</annotation>
+		<annotation cp="³">بالانوشت | دری | درییځ</annotation>
+		<annotation cp="³" type="tts">بالانوشت دری</annotation>
+		<annotation cp="µ">پیمائش | مائیکرو نښه</annotation>
+		<annotation cp="µ" type="tts">مائیکرو نښه</annotation>
 	</annotations>
 </ldml>

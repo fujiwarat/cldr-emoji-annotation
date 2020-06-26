@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">mellanmörk hy</annotation>
 		<annotation cp="🏿">hud | hudfärg | hudton 6 | mörk hy</annotation>
 		<annotation cp="🏿" type="tts">mörk hy</annotation>
+		<annotation cp="–">streck | tank- | tankstreck</annotation>
+		<annotation cp="–" type="tts">tankstreck</annotation>
+		<annotation cp="—">långt | tankstreck</annotation>
+		<annotation cp="—" type="tts">långt tankstreck</annotation>
+		<annotation cp="·">halvhög punkt | mellanpunkt | mittpunkt | punkt | punkt i mitten</annotation>
+		<annotation cp="·" type="tts">halvhög punkt</annotation>
+		<annotation cp="«">citationstecken | dubbla vinkelcitationstecken | gåsögon vänster | vänster | vinkel</annotation>
+		<annotation cp="«" type="tts">gåsögon vänster</annotation>
+		<annotation cp="»">citationstecken | dubbla vinkelcitationstecken | gåsögon höger | höger | vinkel</annotation>
+		<annotation cp="»" type="tts">gåsögon höger</annotation>
+		<annotation cp="§">avsnitt | del | paragraf | paragraftecken</annotation>
+		<annotation cp="§" type="tts">avsnitt</annotation>
+		<annotation cp="†">kors | kors (tecken) | korstecken | tecken kors</annotation>
+		<annotation cp="†" type="tts">korstecken</annotation>
+		<annotation cp="‡">dubbel | dubbelkors | dubbelkorstecken | obelus</annotation>
+		<annotation cp="‡" type="tts">dubbelkorstecken</annotation>
+		<annotation cp="•">listpunkt | punkt | punktlista</annotation>
+		<annotation cp="•" type="tts">listpunkt</annotation>
+		<annotation cp="°">grad | gradsymbol | gradtecken</annotation>
+		<annotation cp="°" type="tts">grad</annotation>
+		<annotation cp="℗">inspelning | ljud | ljudinspelning upphovsrätt | upphovsrätt</annotation>
+		<annotation cp="℗" type="tts">ljudinspelning upphovsrätt</annotation>
+		<annotation cp="←">pil | vänster | vänsterriktad pil</annotation>
+		<annotation cp="←" type="tts">vänsterriktad pil</annotation>
+		<annotation cp="→">höger | högerpil | högerriktad pil | pil</annotation>
+		<annotation cp="→" type="tts">högerriktad pil</annotation>
+		<annotation cp="↑">pil | uppåt | uppåtriktad pil</annotation>
+		<annotation cp="↑" type="tts">uppåtriktad pil</annotation>
+		<annotation cp="↓">nedåt | nedåtriktad pil | pil</annotation>
+		<annotation cp="↓" type="tts">nedåtriktad pil</annotation>
+		<annotation cp="⇅">nedåt | pil | uppåt | uppåt- och nedåtriktade pilar</annotation>
+		<annotation cp="⇅" type="tts">uppåt- och nedåtriktade pilar</annotation>
+		<annotation cp="⇆">höger | pil | vänster | vänster- över högerriktad pil | vänsterriktad över högerriktad pil</annotation>
+		<annotation cp="⇆" type="tts">vänsterriktad över högerriktad pil</annotation>
+		<annotation cp="∆">tillskott | triangel</annotation>
+		<annotation cp="∆" type="tts">tillskott</annotation>
+		<annotation cp="∇">nablaoperatorn | triangel</annotation>
+		<annotation cp="∇" type="tts">nablaoperatorn</annotation>
+		<annotation cp="∈">element | finns i | i | tillhör</annotation>
+		<annotation cp="∈" type="tts">element i</annotation>
+		<annotation cp="÷">dela | division | divisionstecken | obelus</annotation>
+		<annotation cp="÷" type="tts">divisionstecken</annotation>
+		<annotation cp="×">gånger | multiplicera | multiplikation | multiplikationstecken</annotation>
+		<annotation cp="×" type="tts">multiplikationstecken</annotation>
+		<annotation cp="⁻">minus | upphöjt till | upphöjt till minus</annotation>
+		<annotation cp="⁻" type="tts">upphöjt till minus</annotation>
+		<annotation cp="√">kvadrat | kvadratrot | rot | rotmärke</annotation>
+		<annotation cp="√" type="tts">kvadratrot</annotation>
+		<annotation cp="∞">oändlighet | oändlighetstecken</annotation>
+		<annotation cp="∞" type="tts">oändlighetstecken</annotation>
+		<annotation cp="∩">skärning | snitt</annotation>
+		<annotation cp="∩" type="tts">snitt</annotation>
+		<annotation cp="∪">union | unionen av</annotation>
+		<annotation cp="∪" type="tts">union</annotation>
+		<annotation cp="≡">exakt | identiskt | identiskt lika med | trippel</annotation>
+		<annotation cp="≡" type="tts">identiskt lika med</annotation>
+		<annotation cp="⊂">är en delmängd av | delmängd | delmängd av</annotation>
+		<annotation cp="⊂" type="tts">delmängd av</annotation>
+		<annotation cp="▲">fylld | fylld uppåtpekande triangel | fylld uppåtriktad triangel | pil | triangel | uppåt</annotation>
+		<annotation cp="▲" type="tts">fylld uppåtpekande triangel</annotation>
+		<annotation cp="▼">fylld | fylld nedåtpekande triangel | fylld nedåtriktad triangel | nedåt | pil | triangel</annotation>
+		<annotation cp="▼" type="tts">fylld nedåtpekande triangel</annotation>
+		<annotation cp="◊">diamant | romb | ruta</annotation>
+		<annotation cp="◊" type="tts">romb</annotation>
+		<annotation cp="○">cirkel | ihålig cirkel | ring</annotation>
+		<annotation cp="○" type="tts">ihålig cirkel</annotation>
+		<annotation cp="●">cirkel | fylld cirkel</annotation>
+		<annotation cp="●" type="tts">fylld cirkel</annotation>
+		<annotation cp="◯">cirkel | ring | stor ihålig cirkel</annotation>
+		<annotation cp="◯" type="tts">stor ihålig cirkel</annotation>
 		<annotation cp="⚧">transgender | transgendersymbol</annotation>
 		<annotation cp="⚧" type="tts">transgendersymbol</annotation>
 		<annotation cp="🤌">fingerportmonnä | fingrar | frågande | handgest | knyten | sarkastisk</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">regnbågsflagga</annotation>
 		<annotation cp="🏴‍☠">pirater | plundra | sjörövarflagga | skatter</annotation>
 		<annotation cp="🏴‍☠" type="tts">sjörövarflagga</annotation>
+		<annotation cp="£">EGP | GBP | pund | valuta</annotation>
+		<annotation cp="£" type="tts">pund</annotation>
+		<annotation cp="¥">CNY | JPY | valuta | yen | yuan</annotation>
+		<annotation cp="¥" type="tts">yen</annotation>
+		<annotation cp="€">EUR | euro | valuta</annotation>
+		<annotation cp="€" type="tts">euro</annotation>
+		<annotation cp="₹">indisk rupie | rupie | valuta</annotation>
+		<annotation cp="₹" type="tts">indisk rupie</annotation>
+		<annotation cp="₽">rubel | valuta</annotation>
+		<annotation cp="₽" type="tts">rubel</annotation>
+		<annotation cp="¹">ett | upphöjt till | upphöjt till ett</annotation>
+		<annotation cp="¹" type="tts">upphöjt till ett</annotation>
+		<annotation cp="²">kvadrat | två | upphöjt till | upphöjt till två</annotation>
+		<annotation cp="²" type="tts">upphöjt till två</annotation>
+		<annotation cp="³">kubik | tre | upphöjt till | upphöjt till tre</annotation>
+		<annotation cp="³" type="tts">upphöjt till tre</annotation>
+		<annotation cp="µ">mått | mikrotecken</annotation>
+		<annotation cp="µ" type="tts">mikrotecken</annotation>
 	</annotations>
 </ldml>

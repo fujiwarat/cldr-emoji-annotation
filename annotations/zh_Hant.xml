@@ -24,6 +24,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">褐皮膚</annotation>
 		<annotation cp="🏿">膚色 | 黑皮膚</annotation>
 		<annotation cp="🏿" type="tts">黑皮膚</annotation>
+		<annotation cp="–">標點 | 連接號</annotation>
+		<annotation cp="–" type="tts">連接號</annotation>
+		<annotation cp="—">標點 | 破折號</annotation>
+		<annotation cp="—" type="tts">破折號</annotation>
+		<annotation cp="·">中點 | 間隔號 | 點</annotation>
+		<annotation cp="·" type="tts">間隔號</annotation>
+		<annotation cp="«">左 | 左書名號 | 括號 | 角形</annotation>
+		<annotation cp="«" type="tts">左書名號</annotation>
+		<annotation cp="»">右 | 右書名號 | 括號 | 角形</annotation>
+		<annotation cp="»" type="tts">右書名號</annotation>
+		<annotation cp="§">分節符號 | 段落 | 部分 | 章節</annotation>
+		<annotation cp="§" type="tts">分節符號</annotation>
+		<annotation cp="†">劍標 | 短劍號</annotation>
+		<annotation cp="†" type="tts">劍標</annotation>
+		<annotation cp="‡">劍標 | 短劍號 | 雙 | 雙劍標</annotation>
+		<annotation cp="‡" type="tts">雙劍標</annotation>
+		<annotation cp="•">項目號 | 點</annotation>
+		<annotation cp="•" type="tts">項目號</annotation>
+		<annotation cp="°">度 | 度數 | 度時 | 酒精度</annotation>
+		<annotation cp="°" type="tts">度</annotation>
+		<annotation cp="℗">著作權 | 錄音 | 錄音著作權</annotation>
+		<annotation cp="℗" type="tts">錄音著作權</annotation>
+		<annotation cp="←">朝左 | 朝左箭頭 | 箭頭</annotation>
+		<annotation cp="←" type="tts">朝左箭頭</annotation>
+		<annotation cp="→">朝右 | 朝右箭頭 | 箭頭</annotation>
+		<annotation cp="→" type="tts">朝右箭頭</annotation>
+		<annotation cp="↑">朝上 | 朝上箭頭 | 箭頭</annotation>
+		<annotation cp="↑" type="tts">朝上箭頭</annotation>
+		<annotation cp="↓">朝下 | 朝下箭頭 | 箭頭</annotation>
+		<annotation cp="↓" type="tts">朝下箭頭</annotation>
+		<annotation cp="⇅">上下並列箭頭 | 朝上 | 朝下 | 箭頭</annotation>
+		<annotation cp="⇅" type="tts">上下並列箭頭</annotation>
+		<annotation cp="⇆">右 | 左 | 左右相疊箭頭 | 箭頭</annotation>
+		<annotation cp="⇆" type="tts">左右相疊箭頭</annotation>
+		<annotation cp="∆">三角形 | 遞增</annotation>
+		<annotation cp="∆" type="tts">遞增</annotation>
+		<annotation cp="∇">倒三角形 | 遞減</annotation>
+		<annotation cp="∇" type="tts">遞減</annotation>
+		<annotation cp="∈">包含 | 屬於</annotation>
+		<annotation cp="∈" type="tts">屬於</annotation>
+		<annotation cp="÷">除 | 除法 | 除法符號 | 除號</annotation>
+		<annotation cp="÷" type="tts">除法符號</annotation>
+		<annotation cp="×">乘 | 乘法 | 乘號</annotation>
+		<annotation cp="×" type="tts">乘號</annotation>
+		<annotation cp="⁻">上標 | 上標負數 | 負數</annotation>
+		<annotation cp="⁻" type="tts">上標負數</annotation>
+		<annotation cp="√">基數 | 平方根 | 根號</annotation>
+		<annotation cp="√" type="tts">平方根</annotation>
+		<annotation cp="∞">無限 | 無限符號</annotation>
+		<annotation cp="∞" type="tts">無限符號</annotation>
+		<annotation cp="∩">交集 | 集</annotation>
+		<annotation cp="∩" type="tts">交集</annotation>
+		<annotation cp="∪">聯集 | 集</annotation>
+		<annotation cp="∪" type="tts">聯集</annotation>
+		<annotation cp="≡">全等 | 同餘 | 恆等</annotation>
+		<annotation cp="≡" type="tts">全等</annotation>
+		<annotation cp="⊂">子集 | 集</annotation>
+		<annotation cp="⊂" type="tts">子集</annotation>
+		<annotation cp="▲">三角形 | 實心 | 實心正三角形 | 朝上 | 箭頭</annotation>
+		<annotation cp="▲" type="tts">實心正三角形</annotation>
+		<annotation cp="▼">三角形 | 實心 | 實心倒三角形 | 朝下 | 箭頭</annotation>
+		<annotation cp="▼" type="tts">實心倒三角形</annotation>
+		<annotation cp="◊">菱形 | 鑽石</annotation>
+		<annotation cp="◊" type="tts">菱形</annotation>
+		<annotation cp="○">圓 | 環 | 空心圓</annotation>
+		<annotation cp="○" type="tts">空心圓</annotation>
+		<annotation cp="●">圓 | 實心圓</annotation>
+		<annotation cp="●" type="tts">實心圓</annotation>
+		<annotation cp="◯">圓 | 大空心圓 | 環</annotation>
+		<annotation cp="◯" type="tts">大空心圓</annotation>
 		<annotation cp="⚧">變性 | 變性符號</annotation>
 		<annotation cp="⚧" type="tts">變性符號</annotation>
 		<annotation cp="🤌">手勢 | 手指 | 捏 | 捏手指 | 疑問</annotation>
@@ -3008,5 +3078,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">彩虹旗</annotation>
 		<annotation cp="🏴‍☠">寶藏 | 掠奪 | 海盜 | 海盜旗 | 骷髏旗</annotation>
 		<annotation cp="🏴‍☠" type="tts">海盜旗</annotation>
+		<annotation cp="£">英國 | 英鎊 | 英鎊符號 | 貨幣</annotation>
+		<annotation cp="£" type="tts">英鎊符號</annotation>
+		<annotation cp="¥">日圓 | 日幣 | 日幣符號 | 日本 | 貨幣</annotation>
+		<annotation cp="¥" type="tts">日幣符號</annotation>
+		<annotation cp="€">歐元 | 歐元符號 | 歐洲 | 貨幣</annotation>
+		<annotation cp="€" type="tts">歐元符號</annotation>
+		<annotation cp="₹">印度盧比 | 盧比 | 貨幣</annotation>
+		<annotation cp="₹" type="tts">印度盧比</annotation>
+		<annotation cp="₽">盧布 | 貨幣</annotation>
+		<annotation cp="₽" type="tts">盧布</annotation>
+		<annotation cp="¹">1 | 上標 | 上標數字 1</annotation>
+		<annotation cp="¹" type="tts">上標數字 1</annotation>
+		<annotation cp="²">2 | 上標 | 上標數字 2 | 平方</annotation>
+		<annotation cp="²" type="tts">上標數字 2</annotation>
+		<annotation cp="³">2 | 上標 | 上標數字 3 | 立方</annotation>
+		<annotation cp="³" type="tts">上標數字 3</annotation>
+		<annotation cp="µ">微米符號 | 測量</annotation>
+		<annotation cp="µ" type="tts">微米符號</annotation>
 	</annotations>
 </ldml>

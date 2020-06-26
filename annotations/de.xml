@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🏿">dunkle Hautfarbe | Hautfarbe | Hauttyp 6</annotation>
 		<annotation cp="🏿" type="tts">dunkle Hautfarbe</annotation>
+		<annotation cp="–">Halbgeviertstrich | Langstrich | N-Dash | Strich</annotation>
+		<annotation cp="–" type="tts">Halbgeviertstrich</annotation>
+		<annotation cp="—">Geviertstrich | Strich</annotation>
+		<annotation cp="—" type="tts">Geviertstrich</annotation>
+		<annotation cp="·">Halbhochpunkt | Mittelpunkt | Punkt</annotation>
+		<annotation cp="·" type="tts">Mittelpunkt</annotation>
+		<annotation cp="«">Anführungszeichen | Caret | Chevron | Klammer | links | nach links weisendes Guillemet | Spitzzeichen</annotation>
+		<annotation cp="«" type="tts">nach links weisendes Guillemet</annotation>
+		<annotation cp="»">Anführungszeichen | Caret | Chevron | Klammer | nach rechts weisendes Guillemet | rechts | Spitzzeichen</annotation>
+		<annotation cp="»" type="tts">nach rechts weisendes Guillemet</annotation>
+		<annotation cp="§">Absatz | Abschnitt | Paragraf | Paragraph</annotation>
+		<annotation cp="§" type="tts">Paragraph</annotation>
+		<annotation cp="†">Dagger | Dolch | Kreuz | Langkreuz | Obeliscus | Obelisk</annotation>
+		<annotation cp="†" type="tts">Langkreuz</annotation>
+		<annotation cp="‡">Dagger | Doppelkreuz | doppeltes Kreuz | Kreuz | Obeliscus | Obelisk | Zweibalkenkreuz</annotation>
+		<annotation cp="‡" type="tts">Zweibalkenkreuz</annotation>
+		<annotation cp="•">Aufzählungspunkt | Aufzählungszeichen | Blickfangpunkt | Bullet | Punkt</annotation>
+		<annotation cp="•" type="tts">Aufzählungspunkt</annotation>
+		<annotation cp="°">Grad | Grad Alkohol | Proof | Stunde | Volumenprozent</annotation>
+		<annotation cp="°" type="tts">Grad Alkohol</annotation>
+		<annotation cp="℗">Audio | Audioaufnahme | Audioaufzeichnung | Aufnahme | Aufzeichnung | Copyright | Copyrightzeichen | Copyrightzeichen für Audioaufnahme</annotation>
+		<annotation cp="℗" type="tts">Copyrightzeichen für Audioaufnahme</annotation>
+		<annotation cp="←">links | nach links weisend | nach links weisender Pfeil | Pfeil</annotation>
+		<annotation cp="←" type="tts">nach links weisender Pfeil</annotation>
+		<annotation cp="→">nach rechts weisend | nach rechts weisender Pfeil | Pfeil | rechts</annotation>
+		<annotation cp="→" type="tts">nach rechts weisender Pfeil</annotation>
+		<annotation cp="↑">aufwärts | nach oben weisend | nach oben weisender Pfeil | Pfeil</annotation>
+		<annotation cp="↑" type="tts">nach oben weisender Pfeil</annotation>
+		<annotation cp="↓">abwärts | nach unten weisend | nach unten weisender Pfeil | Pfeil</annotation>
+		<annotation cp="↓" type="tts">nach unten weisender Pfeil</annotation>
+		<annotation cp="⇅">abwärts | aufwärts | nach oben und nach unten weisende Pfeile | nach oben weisend | nach unten weisend | Pfeil</annotation>
+		<annotation cp="⇅" type="tts">nach oben und nach unten weisende Pfeile</annotation>
+		<annotation cp="⇆">links | Linkspfeil über Rechtspfeil | nach links weisender über nach rechts weisendem Pfeil | Pfeil | rechts</annotation>
+		<annotation cp="⇆" type="tts">Linkspfeil über Rechtspfeil</annotation>
+		<annotation cp="∆">Dreieck | Erhöhung | Inkrement | Schrittweite | Wertzuwachs | Zuwachs</annotation>
+		<annotation cp="∆" type="tts">Inkrement</annotation>
+		<annotation cp="∇">Dreieck | Nabla</annotation>
+		<annotation cp="∇" type="tts">Nabla</annotation>
+		<annotation cp="∈">Element | Element von | enthält | Menge | Zugehörigkeit</annotation>
+		<annotation cp="∈" type="tts">Element</annotation>
+		<annotation cp="÷">dividieren | Division | Divisionszeichen | Geteiltzeichen | teilen | teilen durch</annotation>
+		<annotation cp="÷" type="tts">Division</annotation>
+		<annotation cp="×">mal | malnehmen | Malzeichen | Multiplikation | Multiplikationszeichen | multiplizieren</annotation>
+		<annotation cp="×" type="tts">Multiplikation</annotation>
+		<annotation cp="⁻">hochgestellt | hochgestelltes Minuszeichen | Minus | Minuszeichen</annotation>
+		<annotation cp="⁻" type="tts">hochgestelltes Minuszeichen</annotation>
+		<annotation cp="√">Basiszahl | Grundzahl | irrationale Zahl | Quadratwurzel | Quadratzahl | Radikal | Wurzel</annotation>
+		<annotation cp="√" type="tts">Quadratwurzel</annotation>
+		<annotation cp="∞">unendlich | Unendlichkeit | Unendlichkeitszeichen</annotation>
+		<annotation cp="∞" type="tts">Unendlichkeitszeichen</annotation>
+		<annotation cp="∩">Menge | Schnitt | Schnittmenge</annotation>
+		<annotation cp="∩" type="tts">Schnittmenge</annotation>
+		<annotation cp="∪">Menge | Vereinigung | Vereinigungsmenge</annotation>
+		<annotation cp="∪" type="tts">Vereinigungsmenge</annotation>
+		<annotation cp="≡">dreifach | dreifacher Strich | exakt | identisch | identisch mit</annotation>
+		<annotation cp="≡" type="tts">identisch</annotation>
+		<annotation cp="⊂">Menge | Teilmenge | Teilmenge von | Untermenge | Untermenge von</annotation>
+		<annotation cp="⊂" type="tts">Teilmenge</annotation>
+		<annotation cp="▲">aufwärts | Dreieck | gefüllt | gefülltes nach oben weisendes Dreieck | Pfeil</annotation>
+		<annotation cp="▲" type="tts">gefülltes nach oben weisendes Dreieck</annotation>
+		<annotation cp="▼">abwärts | Dreieck | gefüllt | gefülltes nach unten weisendes Dreieck | Pfeil</annotation>
+		<annotation cp="▼" type="tts">gefülltes nach unten weisendes Dreieck</annotation>
+		<annotation cp="◊">Raute | Rhombus</annotation>
+		<annotation cp="◊" type="tts">Raute</annotation>
+		<annotation cp="○">hohler Kreis | Kreis | Ring</annotation>
+		<annotation cp="○" type="tts">hohler Kreis</annotation>
+		<annotation cp="●">gefüllter Kreis | Kreis</annotation>
+		<annotation cp="●" type="tts">gefüllter Kreis</annotation>
+		<annotation cp="◯">großer hohler Kreis | Kreis | Ring</annotation>
+		<annotation cp="◯" type="tts">großer hohler Kreis</annotation>
 		<annotation cp="⚧">Symbol für Transgender | Transgender</annotation>
 		<annotation cp="⚧" type="tts">Symbol für Transgender</annotation>
 		<annotation cp="🤌">Finger | Handgeste | sarkastisch | zusammengedrückt | zusammengedrückte Finger</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">Regenbogenflagge</annotation>
 		<annotation cp="🏴‍☠">Jolly Roger | Pirat | Piratenfahne | Piratenflagge | Schatz</annotation>
 		<annotation cp="🏴‍☠" type="tts">Piratenflagge</annotation>
+		<annotation cp="£">britisches Pfund | EGP | GBP | Pfund | Pfund Sterling | Währung</annotation>
+		<annotation cp="£" type="tts">Pfund Sterling</annotation>
+		<annotation cp="¥">CNY | JPY | Renminbi | Währung | Yen | Yuan</annotation>
+		<annotation cp="¥" type="tts">Yen</annotation>
+		<annotation cp="€">EUR | Euro | Währung</annotation>
+		<annotation cp="€" type="tts">Euro</annotation>
+		<annotation cp="₹">Indische Rupie | INR | Rupie | Währung</annotation>
+		<annotation cp="₹" type="tts">Indische Rupie</annotation>
+		<annotation cp="₽">Rubel | Währung</annotation>
+		<annotation cp="₽" type="tts">Rubel</annotation>
+		<annotation cp="¹">eins | Eins | hochgestellt | hochgestellte Eins</annotation>
+		<annotation cp="¹" type="tts">hochgestellte Eins</annotation>
+		<annotation cp="²">hoch zwei | hochgestellt | hochgestellte Zwei | im Quadrat | Quadrat | zwei | Zwei</annotation>
+		<annotation cp="²" type="tts">hochgestellte Zwei</annotation>
+		<annotation cp="³">drei | Drei | hoch drei | hochgestellt | hochgestellte Drei</annotation>
+		<annotation cp="³" type="tts">hochgestellte Drei</annotation>
+		<annotation cp="µ">Maßeinheit | Mikro-Zeichen | My</annotation>
+		<annotation cp="µ" type="tts">Mikro-Zeichen</annotation>
 	</annotations>
 </ldml>

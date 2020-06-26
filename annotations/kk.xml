@@ -23,6 +23,76 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏾" type="tts">5-тері түсі</annotation>
 		<annotation cp="🏿">6-тері түсі | тері | түсі | Фицпатрик | эмодзи өзгертуші</annotation>
 		<annotation cp="🏿" type="tts">6-тері түсі</annotation>
+		<annotation cp="–">қысқа | сызықша</annotation>
+		<annotation cp="–" type="tts">қысқа сызықша</annotation>
+		<annotation cp="—">сызықша | ұзын</annotation>
+		<annotation cp="—" type="tts">ұзын сызықша</annotation>
+		<annotation cp="·">интерпункт | нүкте | ортаңғы</annotation>
+		<annotation cp="·" type="tts">интерпункт</annotation>
+		<annotation cp="«">бұрыш | дәйексөз | енгізу белгісі | жақшалар | сол жақ | сол жақ тырнақша | тырнақша</annotation>
+		<annotation cp="«" type="tts">сол жақ тырнақша</annotation>
+		<annotation cp="»">бұрыш | дәйексөз | енгізу белгісі | жақшалар | оң жақ | оң жақ тырнақша | тырнақша</annotation>
+		<annotation cp="»" type="tts">оң жақ тырнақша</annotation>
+		<annotation cp="§">бөлік | бөлім | параграф | параграф белгісі</annotation>
+		<annotation cp="§" type="tts">бөлім</annotation>
+		<annotation cp="†">айқаршық | крест | сілтеме | сілтеме белгісі</annotation>
+		<annotation cp="†" type="tts">сілтеме белгісі</annotation>
+		<annotation cp="‡">айқаршық | крест | қос | қос сілтеме белгісі | сілтеме</annotation>
+		<annotation cp="‡" type="tts">қос сілтеме белгісі</annotation>
+		<annotation cp="•">жуан белгі | нүкте</annotation>
+		<annotation cp="•" type="tts">жуан белгі</annotation>
+		<annotation cp="°">дәлел | дәреже | сағат</annotation>
+		<annotation cp="°" type="tts">дәреже</annotation>
+		<annotation cp="℗">авторлық құқық | дыбыс | дыбыс жазу авторлық құқығы | жазу</annotation>
+		<annotation cp="℗" type="tts">дыбыс жазу авторлық құқығы</annotation>
+		<annotation cp="←">көрсеткі | сол | сол бағытты көрсеткі</annotation>
+		<annotation cp="←" type="tts">сол бағытты көрсеткі</annotation>
+		<annotation cp="→">көрсеткі | оң | оң бағытты көрсеткі</annotation>
+		<annotation cp="→" type="tts">оң бағытты көрсеткі</annotation>
+		<annotation cp="↑">жоғары | жоғары бағытты көрсеткі | көрсеткі</annotation>
+		<annotation cp="↑" type="tts" draft="provisional">↑↑↑</annotation>
+		<annotation cp="↓">көрсеткі | төмен | төмен бағытты көрсеткі</annotation>
+		<annotation cp="↓" type="tts" draft="provisional">↑↑↑</annotation>
+		<annotation cp="⇅">жоғары | жоғары және төмен бағытты көрсеткілер | көрсеткі | төмен</annotation>
+		<annotation cp="⇅" type="tts">жоғары және төмен бағытты көрсеткілер</annotation>
+		<annotation cp="⇆">көрсеткі | оң | оң бағытты көрсеткілер үстіндегі сол бағытты көрсеткілер | сол</annotation>
+		<annotation cp="⇆" type="tts" draft="provisional">↑↑↑</annotation>
+		<annotation cp="∆">өсу | үшбұрыш</annotation>
+		<annotation cp="∆" type="tts">өсу</annotation>
+		<annotation cp="∇">набла | үшбұрыш</annotation>
+		<annotation cp="∇" type="tts">набла</annotation>
+		<annotation cp="∈">жинақ | құрайды | мүшелік | элемент</annotation>
+		<annotation cp="∈" type="tts">элемент</annotation>
+		<annotation cp="÷">бөлу | бөлу белгісі | крестик</annotation>
+		<annotation cp="÷" type="tts">бөлу белгісі</annotation>
+		<annotation cp="×">көбейту | көбейту белгісі | рет</annotation>
+		<annotation cp="×" type="tts">көбейту белгісі</annotation>
+		<annotation cp="⁻">минус | үстіңгі индекс | үстіңгі минус индексі</annotation>
+		<annotation cp="⁻" type="tts">үстіңгі минус индексі</annotation>
+		<annotation cp="√">иррационал | квадрат түбір | негіз | радикал | түбір | шаршы</annotation>
+		<annotation cp="√" type="tts">квадрат түбір</annotation>
+		<annotation cp="∞">шексіздік | шексіздік белгісі</annotation>
+		<annotation cp="∞" type="tts">шексіздік белгісі</annotation>
+		<annotation cp="∩">жинақ | қиылысу</annotation>
+		<annotation cp="∩" type="tts">қиылысу</annotation>
+		<annotation cp="∪">жинақ | одақ | топтама</annotation>
+		<annotation cp="∪" type="tts">одақ</annotation>
+		<annotation cp="≡">бірдей | дәл | үш</annotation>
+		<annotation cp="≡" type="tts">бірдей</annotation>
+		<annotation cp="⊂">жинақ | ішкі жинағы | ішкі жинақ</annotation>
+		<annotation cp="⊂" type="tts">ішкі жинақ</annotation>
+		<annotation cp="▲">жоғары | көрсеткі | толтырылған | толтырылған жоғары бағытталған үшбұрыш | үшбұрыш</annotation>
+		<annotation cp="▲" type="tts" draft="provisional">↑↑↑</annotation>
+		<annotation cp="▼">көрсеткі | толтырылған | толтырылған төмен бағытталған үшбұрыш | төмен | үшбұрыш</annotation>
+		<annotation cp="▼" type="tts">толтырылған төмен бағытталған үшбұрыш</annotation>
+		<annotation cp="◊">ромб | ромб тәрізді | төрт бұрышты</annotation>
+		<annotation cp="◊" type="tts">ромб</annotation>
+		<annotation cp="○">бос шеңбер | дөңгелек | шеңбер</annotation>
+		<annotation cp="○" type="tts">бос шеңбер</annotation>
+		<annotation cp="●">толтырылған шеңбер | шеңбер</annotation>
+		<annotation cp="●" type="tts">толтырылған шеңбер</annotation>
+		<annotation cp="◯">дөңгелек | үлкен бос шеңбер | шеңбер</annotation>
+		<annotation cp="◯" type="tts">үлкен бос шеңбер</annotation>
 		<annotation cp="⚧">трансгендер | трансгендерлік таңба</annotation>
 		<annotation cp="⚧" type="tts">трансгендерлік таңба</annotation>
 		<annotation cp="🤌">қол қимылы | мысқыл | саусақтар | сұрау | түйістірілген бес саусақ | түйістіру</annotation>
@@ -3007,5 +3077,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏳‍🌈" type="tts">кемпірқосақ түсті ту</annotation>
 		<annotation cp="🏴‍☠">қазына | Қара қарақшы жалауы | қарақшы | қарақшы жалауы | тонау</annotation>
 		<annotation cp="🏴‍☠" type="tts">қарақшы жалауы</annotation>
+		<annotation cp="£">фунт</annotation>
+		<annotation cp="£" type="tts">фунт</annotation>
+		<annotation cp="¥">иена</annotation>
+		<annotation cp="¥" type="tts">иена</annotation>
+		<annotation cp="€">еуро</annotation>
+		<annotation cp="€" type="tts">еуро</annotation>
+		<annotation cp="₹">валюта | рупия | үнді рупиясы</annotation>
+		<annotation cp="₹" type="tts">үнді рупиясы</annotation>
+		<annotation cp="₽">валюта | рубль</annotation>
+		<annotation cp="₽" type="tts">рубль</annotation>
+		<annotation cp="¹">бір | үстіңгі бір индексі | үстіңгі индекс</annotation>
+		<annotation cp="¹" type="tts">үстіңгі бір индексі</annotation>
+		<annotation cp="²">екі | квадрат | үстіңгі екі индексі | үстіңгі индекс</annotation>
+		<annotation cp="²" type="tts">үстіңгі екі индексі</annotation>
+		<annotation cp="³">текше | үстіңгі индекс | үстіңгі үш индексі | үш</annotation>
+		<annotation cp="³" type="tts">үстіңгі үш индексі</annotation>
+		<annotation cp="µ">микро белгісі | өлшеу</annotation>
+		<annotation cp="µ" type="tts">микро белгісі</annotation>
 	</annotations>
 </ldml>
