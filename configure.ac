@@ -1,27 +1,33 @@
 # vim:set et ts=4:
 #
-# Copyright (c) 2017-2019 Takao Fujiwara <takao.fujiwara1@gmail.com>
-# Copyright (c) 2017-2019 Red Hat, Inc.
+# Copyright (c) 2017-2020 Takao Fujiwara <takao.fujiwara1@gmail.com>
+# Copyright (c) 2017-2020 Red Hat, Inc.
 
-m4_define([con_version], [$1_$2])
-m4_define([major_version], [36])
-m4_define([minor_version], [12])
-# micro_version is Emoij minor version + commit date
-m4_define([micro_version], [120200305])
-m4_define([local_version], [0])
+m4_define([con_version], [$1_$2_$3_$4])
+m4_define([cldr_major_version], [37])
+m4_define([cldr_minor_version], [0])
+m4_define([emoji_major_version], [13])
+m4_define([emoji_minor_version], [0])
+# micro_version is commit date
+m4_define([micro_version], [0])
+m4_define([local_version], [1])
 
 AC_PREFEQ([2.62])
-AC_INIT([cldr-emoji-annotation], major_version.minor_version.con_version(micro_version, local_version),
+AC_INIT([cldr-emoji-annotation], con_version(cldr_major_version.cldr_minor_version, emoji_major_version.emoji_minor_version, micro_version, local_version),
         [https://github.com/fujiwarat/cldr-emoji-annotation/issues],
         [cldr-emoji-annotation])
 
 # Define sustituted variables:
-MAJOR_VERSION=major_version
-MINOR_VERSION=minor_version
+CLDR_MAJOR_VERSION=cldr_major_version
+CLDR_MINOR_VERSION=cldr_minor_version
+EMOJI_MAJOR_VERSION=emoji_major_version
+EMOJI_MINOR_VERSION=emoji_minor_version
 MICRO_VERSION=micro_version
 LOCAL_VERSION=local_version
-AC_SUBST(MAJOR_VERSION)
-AC_SUBST(MINOR_VERSION)
+AC_SUBST(CLDR_MAJOR_VERSION)
+AC_SUBST(CLDR_MINOR_VERSION)
+AC_SUBST(EMOJI_MAJOR_VERSION)
+AC_SUBST(EMOJI_MINOR_VERSION)
 AC_SUBST(MICRO_VERSION)
 AC_SUBST(LOCAL_VERSION)
 
