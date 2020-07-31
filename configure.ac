@@ -53,6 +53,18 @@ AM_SILENT_RULES([yes])
 AC_PROG_INSTALL
 AC_PROG_MAKE_SET
 
+# --enable-dtd option.
+AC_ARG_ENABLE(dtd,
+    AS_HELP_STRING([--enable-dtd],
+                   [Install DTD files]),
+    [enable_dtd=$enableval],
+    [enable_dtd=no]
+)
+AM_CONDITIONAL([ENABLE_DTD], [test x"$enable_dtd" = x"yes"])
+if test x"$enable_dtd" != x"yes"; then
+    enable_dtd="no (disabled, use --enable-dtd to install DTD files)"
+fi
+
 # OUTPUT files
 AC_CONFIG_FILES([
 Makefile
@@ -60,6 +72,8 @@ cldr-emoji-annotation.pc
 cldr-emoji-annotation.spec
 annotations/Makefile
 annotationsDerived/Makefile
+common/Makefile
+common/dtd/Makefile
 ])
 
 AC_OUTPUT
@@ -69,5 +83,6 @@ Build options:
   Install prefix                $prefix
   Build shared libs             $enable_shared
   Build static libs             $enable_static
+  Install DTD files             $enable_dtd
 ])
 

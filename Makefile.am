@@ -6,6 +6,7 @@
 NULL =
 
 SUBDIRS = \
+    common \
     annotations \
     annotationsDerived \
     $(NULL)
