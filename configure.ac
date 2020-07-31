@@ -10,7 +10,7 @@ m4_define([emoji_major_version], [13])
 m4_define([emoji_minor_version], [0])
 # micro_version is commit date
 m4_define([micro_version], [0])
-m4_define([local_version], [1])
+m4_define([local_version], [2])
 
 AC_PREFEQ([2.62])
 AC_INIT([cldr-emoji-annotation], con_version(cldr_major_version.cldr_minor_version, emoji_major_version.emoji_minor_version, micro_version, local_version),
