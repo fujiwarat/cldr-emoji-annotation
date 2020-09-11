@@ -4,13 +4,13 @@
 # Copyright (c) 2017-2020 Red Hat, Inc.
 
 m4_define([con_version], [$1_$2_$3_$4])
-m4_define([cldr_major_version], [37])
+m4_define([cldr_major_version], [38-alpha1])
 m4_define([cldr_minor_version], [0])
 m4_define([emoji_major_version], [13])
 m4_define([emoji_minor_version], [0])
 # micro_version is commit date
 m4_define([micro_version], [0])
-m4_define([local_version], [2])
+m4_define([local_version], [1])
 
 AC_PREFEQ([2.62])
 AC_INIT([cldr-emoji-annotation], con_version(cldr_major_version.cldr_minor_version, emoji_major_version.emoji_minor_version, micro_version, local_version),
