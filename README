@@ -1,2 +1,5 @@
 This package copies CLDR annotation files for the versioned tarball:
 https://github.com/unicode-org/cldr
+
+I decided to use tarballs in https://github.com/unicode-org/cldr/releases
+directly and this repo is no longer maintained.
