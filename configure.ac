@@ -6,8 +6,8 @@
 m4_define([con_version], [$1_$2_$3_$4])
 m4_define([cldr_major_version], [38])
 m4_define([cldr_minor_version], [0])
-m4_define([emoji_major_version], [14])
-m4_define([emoji_minor_version], [0])
+m4_define([emoji_major_version], [13])
+m4_define([emoji_minor_version], [1])
 # micro_version is commit date
 m4_define([micro_version], [0])
 m4_define([local_version], [1])
